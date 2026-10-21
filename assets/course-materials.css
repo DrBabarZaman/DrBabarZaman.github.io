@@ -1,0 +1,47 @@
+.sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
+.course-hub .page-heading{margin-bottom:28px;max-width:850px}
+.course-hub .page-heading h1{font-size:clamp(32px,4.2vw,48px);margin-bottom:15px}
+.course-hub .intro{font-size:18px;max-width:740px}
+.course-folder{display:grid;grid-template-columns:68px minmax(0,1fr) auto;align-items:center;gap:24px;background:#10294c;color:white;border-radius:13px;padding:29px 30px;border:1px solid #16345c;box-shadow:0 8px 24px #10294c07}
+.course-folder-icon{width:68px;height:68px;display:grid;place-items:center;background:#ffffff10;border:1px solid #ffffff25;border-radius:14px;color:#c1ddff}
+.course-folder-copy .eyebrow{color:#a9caee;font-size:9px;letter-spacing:1.8px;margin:0 0 7px}
+.course-folder-copy h2{color:white;font-family:Georgia,"Times New Roman",serif;font-weight:400;font-size:28px;letter-spacing:-.3px;margin:0 0 8px;line-height:1.3}
+.course-folder-copy>p{font-size:13px;color:#d4e1f1;margin:0;line-height:1.75}
+.course-folder-copy p.folder-status{font-size:11px;color:#aebfd7;margin-top:7px}
+.course-folder-action .button.secondary{background:white;color:#173e70;border-color:white;font-size:12px}
+.course-folder-action .resource-pending{background:#ffffff0c;border-color:#ffffff28;color:#d5e5f8}
+.course-library{margin-top:37px}
+.library-heading{display:flex;justify-content:space-between;align-items:flex-end;gap:20px;margin-bottom:21px}
+.library-heading .eyebrow{margin-bottom:8px}
+.library-heading h2{margin:0;font-size:28px}
+.library-heading .text-link{margin:0;white-space:nowrap}
+.material-filters{display:flex;gap:8px;flex-wrap:wrap;margin:0 0 21px}
+.material-filters button{font:550 12px/1.6 -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;padding:8px 15px;border:1px solid #d7e2ef;background:white;color:#3f5d81;border-radius:22px;cursor:pointer;min-height:38px;transition:background .15s,border-color .15s,color .15s}
+.material-filters button:hover{background:#eef4fd;border-color:#9db9de}
+.material-filters button[aria-pressed="true"]{background:#155cc8;color:white;border-color:#155cc8}
+.material-filters button:focus-visible,details summary:focus-visible{outline:3px solid #266bd2;outline-offset:4px}
+.material-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:20px;align-items:stretch}
+.material-card{padding:25px 24px 23px;border:1px solid #dbe4ef;border-radius:12px;background:white;display:flex;flex-direction:column;transition:border-color .15s,box-shadow .15s}
+.material-card:hover{border-color:#a7bfdf;box-shadow:0 6px 22px #16385b07}
+.material-card-head{display:flex;flex-direction:column;align-items:flex-start;gap:20px;margin-bottom:13px}
+.material-icon{display:grid;place-items:center;width:52px;height:52px;border-radius:12px;background:#eef4fd;color:#1a549c;border:1px solid #dce8f8}
+.material-type{font-size:9px;letter-spacing:1px;text-transform:uppercase;line-height:1.7;color:#547091;font-weight:650}
+.material-card h3{font-family:Georgia,"Times New Roman",serif;font-weight:400;font-size:25px;line-height:1.3;letter-spacing:-.3px;margin:0 0 12px}
+.material-card>p{font-size:14px;line-height:1.85;color:#566b83;margin:0 0 18px}
+.material-card details{margin:0 0 22px;border-top:1px solid #e5ebf4;padding-top:13px;font-size:12px;color:#42628a}
+.material-card summary{cursor:pointer;font-weight:550;padding:2px 0;line-height:1.8}
+.material-card details>div{padding-top:13px}
+.material-card details strong{font-size:12px;color:#26486e}
+.material-card details p{font-size:12px;line-height:1.8;color:#60738a;margin:6px 0 0}
+.material-action{margin-top:auto;padding-top:2px}
+.material-action .button{font-size:12px;width:100%;justify-content:space-between}
+.resource-pending{display:inline-flex;align-items:center;justify-content:center;min-height:41px;padding:9px 14px;background:#f4f6fa;border:1px dashed #cad7e8;border-radius:7px;color:#657990;font-size:12px;line-height:1.6}
+.material-action .resource-pending{width:100%}
+.course-help{display:flex;justify-content:space-between;align-items:center;gap:28px;padding:25px 28px;border:1px solid #dce5f0;border-radius:12px;background:#eef3fa;margin-top:28px}
+.course-help h2{font-size:20px;letter-spacing:-.3px;margin-bottom:9px}
+.course-help p{font-size:13px;line-height:1.8;color:#566c85;margin:0;max-width:620px}
+.course-help .button{flex-shrink:0;font-size:12px}
+@media(max-width:1000px){.course-folder{grid-template-columns:60px minmax(0,1fr);gap:20px}.course-folder-icon{width:60px;height:60px}.course-folder-action{grid-column:2}.material-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.material-card:last-child{grid-column:1 / -1}.course-help{align-items:flex-start;flex-direction:column;gap:18px}}
+@media(max-width:680px){.course-hub .page-heading h1{font-size:32px;line-height:1.2}.course-hub .intro{font-size:16px;line-height:1.8}.course-folder{padding:23px;grid-template-columns:48px minmax(0,1fr);gap:17px}.course-folder-icon{width:48px;height:48px;border-radius:10px}.course-folder-icon svg{width:27px;height:27px}.course-folder-copy h2{font-size:25px}.course-folder-copy .eyebrow{font-size:8px;letter-spacing:1.3px}.course-folder-copy>p{font-size:12px}.course-folder-action{grid-column:1 / -1}.course-folder-action .resource-pending,.course-folder-action .button{width:100%}.library-heading{display:block}.library-heading h2{font-size:26px}.library-heading .text-link{margin-top:12px}.course-library{margin-top:29px}.material-filters{gap:7px}.material-filters button{font-size:11px;padding:8px 13px}.material-grid{grid-template-columns:1fr;gap:17px}.material-card:last-child{grid-column:auto}.material-card{padding:23px}.material-card-head{gap:17px}.course-help{padding:23px;gap:16px}.course-help h2{font-size:20px}.course-help .button{width:100%}}
+@media(prefers-reduced-motion:reduce){.material-card,.material-filters button{transition:none}}
+@media print{.material-filters,.course-folder-action{display:none!important}.material-grid{display:block}.material-card{break-inside:avoid;margin-bottom:12px}.material-card[hidden]{display:block!important}.course-folder{print-color-adjust:exact}}
