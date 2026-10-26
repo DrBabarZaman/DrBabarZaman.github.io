@@ -26,21 +26,6 @@
       apply();
     });
     apply();
-    const clock = document.getElementById('london-time');
-    const zone = document.getElementById('london-zone');
-    if (!clock || !zone) return;
-    const dateFormat = new Intl.DateTimeFormat('en-GB', { timeZone: 'Europe/London', weekday: 'short', day: '2-digit', month: 'short', year: 'numeric' });
-    const timeFormat = new Intl.DateTimeFormat('en-GB', { timeZone: 'Europe/London', hour: '2-digit', minute: '2-digit', second: '2-digit', hourCycle: 'h23' });
-    const zoneFormat = new Intl.DateTimeFormat('en-GB', { timeZone: 'Europe/London', timeZoneName: 'short' });
-    const tick = () => {
-      const now = new Date();
-      clock.dateTime = now.toISOString();
-      clock.textContent = `${dateFormat.format(now)} · ${timeFormat.format(now)}`;
-      zone.textContent = zoneFormat.formatToParts(now).find(part => part.type === 'timeZoneName').value;
-    };
-    tick();
-    window.setInterval(tick, 1000);
-    document.addEventListener('visibilitychange', () => { if (!document.hidden) tick(); });
   };
   if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', start); else start();
 })();
