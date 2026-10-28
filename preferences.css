@@ -1,0 +1,53 @@
+:root[data-theme="dark"]{color-scheme:dark}
+:root[data-theme="light"]{color-scheme:light;--ink:#142c44;--muted:#4a6178;--paper:#f7f9fc;--line:#d2dce7;--accent:#806112;--gold:#876911;--surface:#fff;--cyan:#176080}
+.header-preferences{border-top:1px solid #29435f;background:#0b2137}
+.preferences-inner{max-width:1280px;margin:auto;padding:10px 40px;display:flex;justify-content:space-between;align-items:center;gap:15px}
+.london-clock{display:flex;align-items:center;flex-wrap:wrap;gap:10px;color:#bdcfe0;font-size:12px;line-height:1.6;font-variant-numeric:tabular-nums}
+.clock-label{color:#f0d176;font-weight:650}.clock-symbol{font-size:19px;color:#9bc9dd}.clock-zone{font-size:10px;border:1px solid #45617b;border-radius:4px;padding:1px 6px;color:#b9d2e7}
+.theme-controls{display:flex;gap:4px;padding:3px;border:1px solid #3b5772;border-radius:8px;flex-shrink:0}
+.theme-controls button{display:inline-flex;align-items:center;justify-content:center;gap:6px;min-height:36px;padding:6px 11px;border:1px solid transparent;border-radius:5px;background:transparent;color:#c4d6e7;font-family:inherit;font-size:12px;cursor:pointer}
+.theme-controls button span{font-size:17px;line-height:1}.theme-controls button:hover{background:#203c55}.theme-controls button[aria-pressed="true"]{background:#dfc05a;color:#13283c;border-color:#dfc05a;font-weight:700}
+.theme-controls button:focus-visible{outline:2px solid #efcf6c;outline-offset:3px}
+html[data-theme="light"],html[data-theme="light"] body.editorial-site{background:#f7f9fc!important;color:#142c44!important}
+html[data-theme="light"] .site-header{background:#fffffff5!important;border-color:#d3dfeb!important}
+html[data-theme="light"] .header-preferences{background:#edf3f9;border-color:#d3dfeb}
+html[data-theme="light"] .brand,html[data-theme="light"] .footer-brand{color:#173550!important}
+html[data-theme="light"] .brand small{color:#536e84!important}
+html[data-theme="light"] .monogram{color:#86650c!important;border-color:#ac862a!important}
+html[data-theme="light"] .editorial-site :is(h1,h2,h3,h4){color:#15334f!important}
+html[data-theme="light"] .editorial-site :is(p,li,.intro,.lead,.editorial-lead,.publication-authors,.publication-journal,.small,.portrait-caption>p){color:#455d74!important}
+html[data-theme="light"] .editorial-site a{color:#155f85}
+html[data-theme="light"] .editorial-site :is(.eyebrow,.service-kicker,.material-type,.footer-label){color:#326d88!important}
+html[data-theme="light"] .editorial-site :is(.gold-word,.editorial-hero h1>span,.author-highlight,.publication-year,.topic-total,.metrics strong,.clock-label){color:#84620b!important}
+html[data-theme="light"] .editorial-site :is(.card,.research-card,.service-card,.material-card,.application-item,.journal-summary,.metric-stat,.profile-card,.course-folder,.topic-filters,.jif-badge,.panel,.contact-panel,.callout,.course-source,.material-toolbar){background:#fff!important;border-color:#ccd9e6!important;box-shadow:0 4px 20px #14365406!important}
+html[data-theme="light"] .editorial-site :is(.research-card,.service-card):hover{background:#f0f6fc!important;border-color:#a68b45!important}
+html[data-theme="light"] .editorial-site :is(.button,.card-action-label,.quartile-badge){background:#e3c45e!important;color:#122d46!important;border-color:#bc9a32!important}
+html[data-theme="light"] .editorial-site .button.secondary{background:transparent!important;color:#175c80!important;border-color:#7996af!important}
+html[data-theme="light"] .editorial-site :is(.text-link,.breadcrumb,.doi-link,.hero-text-link){color:#185d81!important}
+html[data-theme="light"] .editorial-site :is(.publication-journal,.metric-category,.metrics-note,.impact-summary small){color:#536b80!important}
+html[data-theme="light"] .editorial-site :is(.topic-nav a,.nav-toggle,.theme-controls,.clock-zone){background:#f3f7fb!important;color:#1d4f70!important;border-color:#bacddd!important}
+html[data-theme="light"] .theme-controls button{color:#315974}html[data-theme="light"] .theme-controls button:hover{background:#dbe7f1}html[data-theme="light"] .theme-controls button[aria-pressed="true"]{background:#e3c45e;color:#142c44}
+html[data-theme="light"] :is(.london-clock,.clock-symbol){color:#3b5a73}
+html[data-theme="light"] .editorial-site :is(input,select,textarea){background:#fff!important;color:#18334b!important;border-color:#8aa4bb!important}
+html[data-theme="light"] .editorial-site input::placeholder{color:#61798d!important}
+html[data-theme="light"] .editorial-site :is(.site-footer,.material-section,details){background:transparent!important;border-color:#ccd9e6!important}
+html[data-theme="light"] .editorial-site :is(.footer-bottom,.footer-top,.publication-entry,.section,.editorial-profile,.editorial-credentials,.impact-summary,.metric-method,td,th){border-color:#d0dce7!important}
+html[data-theme="light"] .editorial-site :is(.impact-summary strong,.metric-stat strong){color:#84620b!important}
+html[data-theme="light"] .editorial-site :is(.metric-stat span,.impact-summary span,.metric-method summary,.topic-filters label){color:#284e6c!important}
+html[data-theme="light"] .editorial-site #main-nav a{color:#30536d!important}
+html[data-theme="light"] .editorial-site #main-nav a[aria-current]{color:#806112!important;background:#f3eacb!important}
+html[data-theme="light"] .editorial-site #main-nav a:last-child{background:#e3c45e!important;color:#142c44!important}
+html[data-theme="light"] .editorial-hero:before{opacity:.15}
+@media(max-width:1150px){.preferences-inner{padding-inline:25px}}
+@media(max-width:680px){.preferences-inner{padding:12px 21px;flex-wrap:wrap;gap:10px}.london-clock{font-size:11px;gap:7px}.theme-controls{margin-left:auto}.theme-controls button{min-height:38px;padding:6px 10px;font-size:11px}html[data-theme="light"] .nav-ready #main-nav{background:#fff!important}}
+@media(max-width:380px){.preferences-inner{padding-inline:16px}.london-clock{gap:5px;font-size:10px}}
+@media print{.header-preferences{display:none}}
+
+/* Two explicit appearances in a native, keyboard-accessible dropdown. */
+.theme-picker{display:flex;align-items:center;gap:10px;flex-shrink:0}
+.theme-picker label{font-size:12px;color:#b9cede}
+.theme-picker select{min-height:42px;min-width:112px;padding:8px 30px 8px 12px;background:#142d45;color:#f1d276;border:1px solid #64768a;border-radius:7px;font:inherit;font-size:13px;cursor:pointer}
+.theme-picker select:focus-visible{outline:2px solid #e9c65e;outline-offset:3px}
+html[data-theme="light"] .theme-picker label{color:#3f5c73}
+html[data-theme="light"] .theme-picker select{background:#fff;color:#203d55;border-color:#8aa4bb}
+@media(max-width:680px){.theme-picker{margin-left:auto}.theme-picker label{font-size:11px}.theme-picker select{font-size:12px;min-height:42px}}

@@ -1,0 +1,131 @@
+/* Statistical Insight Lab: midnight navy, warm gold and restrained cyan accents. */
+:root{color-scheme:dark;--ink:#f2f5fb;--muted:#b5c5d9;--paper:#071a30;--line:#29435f;--accent:#e4bf5a;--gold:#e4bf5a;--gold-hover:#f3d47e;--surface:#122940;--cyan:#8ccde6}
+html{background:#07182b}
+body{background:radial-gradient(ellipse at 95% 4%,#0c3d56 0,transparent 34%),radial-gradient(ellipse at 0 75%,#0a294a 0,transparent 35%),#071a30;color:var(--ink)}
+a{color:#a4d8ed}a:hover{color:#f0d58c}
+h1,h2,h3{color:#f4f7fc}
+h1{font-weight:650;letter-spacing:-1.3px}
+h2{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;font-weight:600;letter-spacing:-.8px}
+.eyebrow{color:#91c4dc;font-size:10px;letter-spacing:2.1px}
+.intro,.lead,.small{color:#b7c9df}
+.site-header{background:#081b30f5;border-bottom:1px solid #29435f;backdrop-filter:blur(16px)}
+.header-inner{padding-block:20px;max-width:1280px}
+.brand{color:#f6f8fc;font-weight:600;letter-spacing:.1px}
+.brand small{color:#9bb3cd;letter-spacing:.45px}
+.monogram{background:transparent;border:1px solid #b89745;border-radius:50%;color:#e4bf5a;font-size:16px;letter-spacing:-.5px;width:47px;height:47px}
+.brand-dot{background:#86c9dc;border-color:#081b30;width:7px;height:7px}
+nav a{color:#c9d6e6}nav a:hover{color:#f3d47e}
+nav a[aria-current]{color:#f0cc6a;box-shadow:0 2px #d5b34e}
+nav a:last-child{background:#e4bf5a;color:#10233a;border:1px solid #e4bf5a;font-weight:700}
+nav a:last-child:hover{background:#f3d47e}
+.nav-toggle{background:#122940;border-color:#47617b;color:#f3f6fc}
+main{padding-top:44px}
+.page-heading{border-bottom:1px solid #29435f;padding-bottom:28px}
+.page-heading .intro{font-size:19px;line-height:1.8}
+.breadcrumb{color:#9bcce3}
+.profile-home .profile-card{position:relative;background:linear-gradient(135deg,#0c2540,#0c2137 72%);border:1px solid #31465f;border-radius:16px;box-shadow:0 16px 65px #00000018;overflow:hidden}
+.profile-cover{height:266px;background-image:linear-gradient(90deg,#071f39d9 0,#071f3980 50%,#08263b38 100%),url('cover-statistics.png');background-position:center 43%;border-bottom:1px solid #2a4763}
+.profile-cover:before{background:linear-gradient(180deg,#06223908,#08203852)}
+.cover-copy{padding:38px 36px;max-width:850px}
+.cover-copy .eyebrow{color:#a8d1e5;font-size:9px;letter-spacing:2px;margin:0 0 15px}
+.cover-title{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;font-size:clamp(34px,4.5vw,50px);line-height:1.12;letter-spacing:-1.6px;font-weight:650;max-width:750px;color:#f7f9fc;margin-bottom:16px}
+.cover-title span{color:#e4bf5a}
+.cover-caption{color:#c8d9eb;font-size:12px;letter-spacing:.45px}
+.profile-details{background:linear-gradient(110deg,#122a42ab,#0e253ce0);padding:27px 32px 25px}
+.profile-photo{border-color:#d6ba70;box-shadow:0 0 0 4px #e4bf5a0a}
+.profile-home .profile-details h1{color:#f4f7fc;font-size:31px}
+.profile-role{color:#edcd7c}
+.profile-institution{color:#b8cbe0}
+.profile-summary{color:#c2d1e3}
+.research-tags span{background:#ffffff04;border:1px solid #38516c;color:#bad5e6;font-size:9px;letter-spacing:.25px}
+.profile-details .profile-links{border-color:#334a65}
+.profile-links a{color:#a8d6ea}.profile-links a:hover{color:#f2d489}
+.button{background:#e4bf5a;border-color:#e4bf5a;color:#102338;font-weight:700;border-radius:7px;padding:11px 18px;min-height:43px;letter-spacing:.1px}
+.button:hover{background:#f3d47e;border-color:#f3d47e;color:#102338}
+.button.secondary,.secondary{background:#102a44;border-color:#4d6580;color:#d4e7f5;font-weight:550}
+.button.secondary:hover{background:#1b3856;border-color:#88aacb;color:#f6f8fc}
+.button:focus-visible,.nav-toggle:focus-visible,a:focus-visible,input:focus-visible,select:focus-visible,summary:focus-visible{outline:3px solid #f5d476;outline-offset:4px}
+.skip{background:#e4bf5a;color:#102338}
+.intro-panel{position:relative;padding-top:38px;gap:46px}
+.intro-panel h2{font-size:28px;color:#f1f5fc}
+.intro-panel p{color:#c0cfe0}
+.text-link{color:#a3d7ea}.text-link:hover{color:#f2d489}
+.service-card,.card{background:linear-gradient(135deg,#172f48d6,#12273fe8);border:1px solid #314964;border-radius:12px;box-shadow:inset 0 1px #ffffff03;color:#f1f6fc}
+.service-card:hover,.card:hover{background:linear-gradient(135deg,#1b3753,#142e48);border-color:#7d795b;box-shadow:0 10px 24px #00000012}
+.service-card h3,.card h3{color:#f3f6fc}
+.service-card p,.card p{color:#c1cee0}
+.service-card .text-link{color:#e4c572}
+.service-card h3{font-size:22px;font-weight:600}
+.metrics{background:linear-gradient(100deg,#132c46,#102940);border-color:#314a65;border-radius:12px}
+.metrics strong{color:#edca70;font-weight:600}
+.metrics span{color:#c6d4e4}
+.metrics-note{color:#a8bdd4}.metrics-note a{color:#b8dbed}
+.research-grid .card.research-card{background:linear-gradient(135deg,#172f48,#11283f);border-color:#314964;box-shadow:inset 0 1px #ffffff03}
+.research-grid .card.research-card:hover{background:linear-gradient(135deg,#1d3955,#15304b);border-color:#8f865e;box-shadow:0 8px 25px #00000017}
+.research-visual{background:#0c2239;border-color:#2d4966}
+.research-card-copy .eyebrow{color:#a1cadd;letter-spacing:1.8px}
+.research-card-copy h3{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;font-weight:600;font-size:23px;line-height:1.35;letter-spacing:-.3px;color:#f2f6fc}
+.research-card-copy h3 span{color:#e4bf5a}
+.research-card-copy p{color:#bccce0}
+.research-grid .card.research-card:last-child .research-visual{border-color:#2d4966}
+.publications{background:#11273e;border-color:#314964;box-shadow:inset 0 1px #ffffff03}
+.publications li.publication-entry{border-color:#2b435f}
+.publication-year{color:#a9cce3}
+.publications .publication-title{color:#f1f5fb;font-size:22px}
+.publications .publication-authors{color:#b6c9de}
+.author-highlight{color:#f1d589}
+.publications .publication-journal{color:#a4bdd5}
+.doi-link{color:#a8d9ed;background:#15344f;border-color:#3b5672}
+.doi-link:hover{color:#f4d78d;background:#21425d;border-color:#8d8057}
+.filters input,.filters select,input,select{background:#10263e;color:#edf4fc;border:1px solid #49637f;border-radius:6px}
+input::placeholder{color:#9eb5ce;opacity:1}
+.filters label{color:#c0d2e5}
+.notice{background:#152e47;border-color:#d2b359;color:#c9d8e8}
+.list li,.timeline article{border-color:#2c435d}
+.timeline .institution{color:#c7d8e9}
+.timeline article p:last-child{color:#b6c9df}
+.service-detail{border-color:#2c435d}
+.enquiry-note{background:#152e47;border-color:#d9b75a;color:#c8d7e9}
+.email{color:#e9c973}
+.contact-banner{position:relative;overflow:hidden;background:radial-gradient(ellipse at right bottom,#10405b66,transparent 65%),#102940;border:1px solid #3d536c;box-shadow:0 8px 25px #0000000c;padding:32px}
+.contact-banner:after{content:"";position:absolute;left:0;bottom:0;width:100%;height:3px;background:linear-gradient(90deg,#d6b64d,#8db8b6,#48a8c7)}
+.contact-banner .eyebrow{color:#9ecde0}
+.contact-banner h2{color:#f3f6fc}
+.contact-banner p{color:#c0d0e2}
+.contact-banner .button{background:#e4bf5a;color:#102338;border-color:#e4bf5a}
+.contact-banner .button:hover{background:#f3d47e;color:#102338}
+.site-footer{position:relative;background:#061628;color:#b6c8df;border-top:1px solid #2b435d;padding-top:40px}
+.site-footer:before{content:"";position:absolute;top:0;left:0;width:100%;height:3px;background:linear-gradient(90deg,#c9a94b 0,#c9a94b 18%,#399dbc 100%)}
+.footer-brand{color:#f2f6fc!important}.footer-brand span{color:#e4bf5a}
+.site-footer .footer-label{color:#9fc6dc}
+.footer-top>div>a:not(.footer-brand){color:#c4d7e9}
+.footer-top>div>a:hover{color:#f1d38b}
+.footer-bottom{border-color:#28415c;color:#9eb7ce}
+/* Course library uses the same palette as the academic pages. */
+.course-folder{background:radial-gradient(ellipse at right,#0d3c55a0,transparent 75%),#102a45;border-color:#3a526e}
+.course-folder-icon{background:#e4bf5a0b;border-color:#b59d5759;color:#e8c66c}
+.course-folder-copy h2{color:#f3f6fc}
+.course-folder-copy .eyebrow{color:#a3cedf}
+.course-folder-copy>p{color:#c4d5e7}
+.course-folder-copy p.folder-status{color:#a9c0d6}
+.course-folder-action .button.secondary{background:#e4bf5a;border-color:#e4bf5a;color:#102338}
+.material-filters button{background:#122a43;border-color:#3b5672;color:#c5d8e9}
+.material-filters button:hover{background:#1b3a55;border-color:#7794aa}
+.material-filters button[aria-pressed="true"]{background:#e4bf5a;border-color:#e4bf5a;color:#11243a}
+.material-filters button:focus-visible,details summary:focus-visible{outline-color:#f3d47e}
+.material-card{background:linear-gradient(135deg,#172f48,#11273f);border-color:#314b68}
+.material-card:hover{border-color:#94875f;box-shadow:0 8px 20px #00000012}
+.material-icon{background:#e4bf5a08;border-color:#847a514f;color:#e4c66d}
+.material-type{color:#a7ccdf}
+.material-card h3{color:#f2f6fc}
+.material-card>p{color:#bfcee0}
+.material-card details{border-color:#324b66;color:#a8d8eb}
+.material-card details strong{color:#d4e4f2}
+.material-card details p{color:#aebfd4}
+.resource-pending{background:#182f47;border-color:#50627b;color:#b6c9de}
+.course-folder-action .resource-pending{background:#ffffff05;border-color:#536883;color:#c3d5e8}
+.course-help{background:#112c46;border-color:#324b66}
+.course-help h2{color:#eef4fb}.course-help p{color:#b9cce0}
+@media(max-width:1150px){nav a[aria-current]{background:#e4bf5a13;color:#edcf7c;box-shadow:none}.header-inner nav{border-top:1px solid #28435f;padding-top:10px}}
+@media(max-width:680px){.header-inner{padding-block:16px}.brand{font-size:14px}.brand small{font-size:8px;letter-spacing:.15px}.monogram{width:40px;height:40px;font-size:14px}.cover-copy{padding:27px 23px}.profile-cover{height:230px}.cover-title{font-size:35px;letter-spacing:-1px}.cover-copy .eyebrow{font-size:8px;letter-spacing:1.65px;margin-bottom:14px}.cover-caption{font-size:10px;line-height:1.8}.profile-details{padding:23px 22px}.profile-home .profile-details h1{font-size:26px}.page-heading .intro{font-size:17px}.research-card-copy h3{font-size:23px}.contact-banner{padding:27px 24px}}
+@media print{:root{color-scheme:light;--ink:#111;--muted:#333;--paper:#fff;--line:#bbb;--accent:#173b68}html,body{background:white!important;color:#111!important}h1,h2,h3,p,.intro,.lead,.small,.publication-authors,.publication-journal,.profile-role,.profile-institution,.profile-summary,.publication-title,.author-highlight,.metrics strong,.metrics span{color:#111!important}.profile-card,.profile-details,.publications,.service-card,.card,.metrics,.course-folder,.material-card,.course-help{background:white!important;color:#111!important;border-color:#bbb!important;box-shadow:none!important}.profile-cover{print-color-adjust:exact}.research-tags span,.doi-link{background:none;color:#173b68;border-color:#aaa}.publication-year,.eyebrow{color:#333!important}}

@@ -1,0 +1,25 @@
+.learning-section-heading{display:flex;justify-content:space-between;align-items:center;gap:20px;margin-bottom:24px}
+.learning-record-count{font-size:12px;border:1px solid #4b6781;padding:6px 12px;border-radius:25px;color:#b9d1e2;white-space:nowrap}
+.learning-records{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:20px;align-items:start}
+.learning-record{padding:27px;border:1px solid #405c76;border-radius:12px;background:#142c43;min-width:0}
+.learning-record>.eyebrow{font-size:9px;letter-spacing:1.8px;margin:0 0 15px}
+.editorial-site .learning-record h3{font-size:23px;line-height:1.35;letter-spacing:-.4px;margin:0 0 14px}
+.learning-provider{font-size:13px;color:#98c6dc!important;margin-bottom:13px;line-height:1.75}
+.learning-description{font-size:14px;line-height:1.85;color:#bed0e1}
+.learning-certificate{margin-top:24px;border-top:1px solid #3a5771}
+.learning-certificate details{background:transparent!important;border:0!important;margin:0!important;padding:0!important}
+.learning-certificate summary{display:flex;align-items:center;justify-content:space-between;gap:15px;min-height:48px;padding:14px 0 0;cursor:pointer;font-size:13px;color:#e3c568;list-style:none}
+.learning-certificate summary::-webkit-details-marker{display:none}
+.learning-certificate summary span{font-size:21px}
+.learning-certificate details[open] summary span{transform:rotate(45deg)}
+.learning-certificate summary:focus-visible{outline:2px solid #e9c762;outline-offset:5px;border-radius:3px}
+.certificate-content{padding-top:12px}.certificate-pending{font-size:12px!important;color:#a6bfd4!important;line-height:1.8}
+.certificate-actions{display:flex;flex-wrap:wrap;gap:10px;margin:8px 0}
+.certificate-actions .button{font-size:12px!important;min-height:42px}
+.certificate-date{font-size:12px;line-height:1.7}
+html[data-theme="light"] .learning-record{background:#fff;border-color:#c9d8e6}
+html[data-theme="light"] :is(.learning-record-count,.learning-certificate){border-color:#c6d6e4;color:#44617a}
+html[data-theme="light"] .learning-certificate summary{color:#765b0a}
+html[data-theme="light"] .editorial-site .learning-provider{color:#386982!important}
+html[data-theme="light"] .editorial-site .certificate-pending{color:#586f83!important}
+@media(max-width:680px){.learning-records{grid-template-columns:1fr;gap:15px}.learning-record{padding:23px}.learning-section-heading{align-items:flex-start;flex-direction:column;gap:8px}.editorial-site .learning-record h3{font-size:22px}}

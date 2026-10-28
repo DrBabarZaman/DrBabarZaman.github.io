@@ -1,0 +1,53 @@
+.publication-section-nav{display:flex;flex-wrap:wrap;gap:10px;margin:25px 0 34px}
+.publication-section-nav a{display:inline-flex;align-items:center;min-height:44px;padding:9px 13px!important;border:1px solid #4c6a83;border-radius:7px;background:#142c43!important;color:#dceaf5!important;font-size:12px!important;font-weight:500!important;box-shadow:none!important}
+.publication-section-nav a:hover{color:#efd37d!important;border-color:#b99a45}
+.journal-publication-summary>p,.peer-review-service>p{font-size:14px;line-height:1.85}
+.journal-overview-stats{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px;margin:24px 0}
+.journal-overview-stats>div{padding:20px;border:1px solid #3e5b75;border-radius:10px;background:#142c43;display:grid;gap:9px}
+.journal-overview-stats strong{font-size:31px;line-height:1.2;color:#e6c66a}
+.journal-overview-stats span{font-size:12px;color:#bfd4e5;line-height:1.7}
+.journal-aggregate-note{display:flex;align-items:center;gap:23px;border-left:3px solid #cfad48;padding:15px 20px;background:#11283e;margin:23px 0}
+.journal-aggregate-note>strong{font-size:30px;color:#e9cb72;line-height:1.2}
+.journal-aggregate-note span{display:block;font-size:14px;font-weight:650;color:#e0edf6;line-height:1.7}
+.journal-aggregate-note small{display:block;font-size:12px;color:#adc6da;line-height:1.8;margin-top:5px}
+.journal-table-hint{font-size:12px!important;color:#a7c1d7}
+.journal-publication-table-wrap{overflow-x:auto;max-width:100%;border:1px solid #3e5b75;border-radius:10px;margin:22px 0;scrollbar-color:#6d879d #10273b}
+.journal-publication-table{border-collapse:collapse;width:100%;min-width:850px;text-align:left;font-size:12px;font-variant-numeric:tabular-nums}
+.journal-publication-table caption{text-align:left;padding:17px 19px;color:#bcd0e1;font-size:12px;line-height:1.7}
+.journal-publication-table th,.journal-publication-table td{padding:14px 16px;border-top:1px solid #36516a;vertical-align:top;line-height:1.75}
+.journal-publication-table thead{background:#1b344c;color:#e6edf6}
+.journal-publication-table thead th{font-weight:650;font-size:11px;min-width:80px}
+.journal-publication-table tbody th[scope="row"]{font-weight:550;min-width:235px;max-width:350px;color:#e5eff8}
+.journal-publication-table td:first-child{min-width:135px;color:#a7c1d6}
+.journal-publication-table .publisher-group-row th{color:#e5c568;background:#142b40;font-weight:700;font-size:13px;padding-block:12px}
+.publisher-group-row span{display:block;font-size:10px;font-weight:400;color:#a5c1d5;margin-top:4px}
+.journal-exclusion{display:block;font-size:10px;color:#9eb8cd;line-height:1.7;margin-top:6px}
+.journal-paper-count{display:inline-flex;min-height:38px;min-width:42px;align-items:center;justify-content:center;padding:4px 10px;border:1px solid #a48b41;border-radius:6px;color:#f0d47b!important;font-size:14px;font-weight:700;text-decoration:underline;text-underline-offset:3px}
+.journal-paper-count:hover{background:#d9ba4f1c}
+.sources-calculation h3{font-size:19px!important;margin:24px 0 12px;line-height:1.4}
+.sources-calculation .metric-table-wrap td,.sources-calculation .metric-table-wrap th{min-width:80px}
+.publication-list-heading{margin-top:35px}
+.publication-record-page .publication-controls{grid-template-columns:repeat(3,minmax(0,1fr))}
+.publication-record-page .publication-controls label:first-child{grid-column:span 2}
+.publication-record-page .publication-controls button{grid-column:3}
+.review-service-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px;margin:24px 0}
+.review-service-card{padding:25px;border:1px solid #405c76;border-radius:12px;background:#142c43}
+.editorial-site .review-service-card h3{font-size:21px;line-height:1.4;color:#e5c66c;margin:0 0 16px}
+.review-service-card ul{padding-left:19px;margin-bottom:0}.review-service-card li{font-size:14px;line-height:1.85;margin:10px 0}
+.review-service-card a{display:inline-block;padding-block:3px;text-underline-offset:4px}
+.review-service-note{font-size:12px!important;color:#adc6d9}
+.journal-paper-count:focus-visible,.journal-publication-table-wrap:focus-visible{outline:2px solid #edcc68;outline-offset:4px}
+html[data-theme="light"] :is(.journal-overview-stats>div,.journal-aggregate-note,.review-service-card){background:#fff;border-color:#c7d7e5}
+html[data-theme="light"] .publication-section-nav a{background:#fff!important;color:#2c5571!important;border-color:#b7ccde}
+html[data-theme="light"] .publication-section-nav a:hover{color:#816316!important}
+html[data-theme="light"] :is(.journal-overview-stats strong,.journal-aggregate-note>strong){color:#7e6110}
+html[data-theme="light"] :is(.journal-overview-stats span,.journal-aggregate-note small,.journal-exclusion,.journal-publication-table caption,.publisher-group-row span,.journal-publication-table td:first-child){color:#4b6b83}
+html[data-theme="light"] .journal-aggregate-note span{color:#244861}
+html[data-theme="light"] :is(.journal-publication-table-wrap,.journal-publication-table td,.journal-publication-table th){border-color:#c7d7e5}
+html[data-theme="light"] .journal-publication-table thead{background:#e9f1f8;color:#244861}
+html[data-theme="light"] .journal-publication-table tbody th[scope="row"]{color:#264b67}
+html[data-theme="light"] .journal-publication-table .publisher-group-row th{background:#f1f5fa;color:#795f16}
+html[data-theme="light"] .journal-paper-count{color:#7a6014!important;border-color:#a58a3d}
+@media(max-width:760px){.journal-overview-stats{gap:10px}.journal-overview-stats>div{padding:15px}.journal-overview-stats strong{font-size:27px}.journal-overview-stats span{font-size:11px}.journal-aggregate-note{align-items:flex-start;gap:16px;padding:15px}.journal-aggregate-note>strong{font-size:27px}.review-service-grid{grid-template-columns:1fr}.publication-record-page .publication-controls{grid-template-columns:1fr 1fr}.publication-record-page .publication-controls button{grid-column:2}}
+@media(max-width:480px){.publication-record-page .publication-controls{grid-template-columns:1fr}.publication-record-page .publication-controls label:first-child{grid-column:1}.publication-record-page .publication-controls button{grid-column:1}.journal-overview-stats{grid-template-columns:1fr}.journal-overview-stats>div{grid-template-columns:auto 1fr;align-items:center;gap:18px}.journal-aggregate-note{flex-direction:column;gap:9px}.publication-section-nav a{font-size:11px!important}.review-service-card{padding:22px}}
+@media print{.publication-section-nav,.journal-paper-count{border:0}.journal-publication-table-wrap{overflow:visible}.journal-publication-table{min-width:0;font-size:9px}.journal-publication-table th,.journal-publication-table td{min-width:0!important;padding:7px}.review-service-card{break-inside:avoid}}

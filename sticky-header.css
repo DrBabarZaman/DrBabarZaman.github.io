@@ -1,0 +1,16 @@
+/* Keep brand, navigation, clock and appearance together while scrolling. */
+:root{--site-header-height:200px}
+html{scroll-padding-top:calc(var(--site-header-height) + 16px)}
+body.editorial-site .site-header{position:sticky;top:0;z-index:1000;overflow:visible;background:#071a30!important;box-shadow:0 5px 20px #00000018}
+html[data-theme="light"] body.editorial-site .site-header{background:#fff!important}
+.editorial-site #main-nav>a,.editorial-site #main-nav>.teaching-dropdown>summary{font-size:14px;line-height:1.5;font-weight:550;min-height:44px}
+.editorial-site #main-nav{gap:15px}
+.editorial-site .teaching-submenu strong{font-size:14px}
+.editorial-site .teaching-submenu small{font-size:12px;line-height:1.6}
+.editorial-site .course-level-dropdown>summary{font-size:14px}
+.editorial-site .course-level-submenu strong{font-size:13px}
+.editorial-site .teaching-submenu{max-height:calc(100dvh - var(--site-header-height) - 20px);overflow-y:auto}
+.editorial-site main [id]{scroll-margin-top:0!important}
+@media(max-width:1500px) and (min-width:761px){.editorial-site .header-inner{flex-wrap:wrap;gap:10px;padding-block:16px}.editorial-site #main-nav{width:100%;justify-content:space-between;flex-wrap:wrap;gap:5px 14px}.editorial-site #main-nav>a,.editorial-site #main-nav>.teaching-dropdown>summary{font-size:14px}}
+@media(max-width:760px){.editorial-site .header-inner{padding-block:13px}.editorial-site #main-nav{gap:4px}.nav-ready .editorial-site #main-nav.is-open{max-height:calc(100dvh - 210px);overflow-y:auto;overscroll-behavior:contain;flex-wrap:nowrap;flex-shrink:1}.editorial-site .teaching-submenu{max-height:none;overflow:visible}.editorial-site #main-nav>a,.editorial-site #main-nav>.teaching-dropdown>summary{font-size:15px}.editorial-site .preferences-inner{padding-block:8px}.editorial-site .theme-picker select{min-height:38px}}
+@media print{body.editorial-site .site-header{position:static!important;box-shadow:none}html{scroll-padding-top:0}}

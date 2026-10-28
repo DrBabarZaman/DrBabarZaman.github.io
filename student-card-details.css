@@ -1,0 +1,17 @@
+/* Optional metadata never reserves space when no value is supplied. */
+.thesis-student-grid{align-items:stretch}
+.thesis-student-card{height:100%}
+.editorial-site .thesis-student-card .student-stage{font-size:16px!important;font-weight:600;color:#e7cb75!important;margin:-10px 0 21px;line-height:1.65!important}
+.student-research-tags{display:flex;flex-wrap:wrap;gap:8px;list-style:none;padding:0;margin:0 0 24px}
+body.editorial-site main .student-research-tags li{font-size:16px!important;line-height:1.5!important;font-weight:500;color:#c7e0ee;background:#1b354c;border:1px solid #4b6a82;border-radius:6px;padding:5px 10px;margin:0;overflow-wrap:anywhere}
+.student-card-details{margin-top:auto;padding-top:18px;border-top:1px solid #405d76}
+body.editorial-site main .student-card-details .thesis-institution{margin:0;border:0;padding:0;font-size:18px!important;line-height:1.7!important}
+body.editorial-site main .student-card-details :is(.thesis-year,.thesis-status,.student-supervision-role,.student-current-position){font-size:16px!important;line-height:1.75!important;margin:10px 0 0;color:#c0d5e5}
+.thesis-student-card .thesis-resources{padding-top:17px;margin-top:18px;border-top:1px solid #405d76;display:flex;flex-wrap:wrap;gap:8px 18px}
+body.editorial-site main .thesis-resources a{font-size:16px!important;line-height:1.65;min-height:44px;display:inline-flex;align-items:center;max-width:100%;overflow-wrap:anywhere;text-decoration:underline;text-underline-offset:4px}
+html[data-theme="light"] .editorial-site .thesis-student-card .student-stage{color:#7a6013!important}
+html[data-theme="light"] body.editorial-site main .student-research-tags li{background:#eef4f9;border-color:#b7cddd;color:#315a75!important}
+html[data-theme="light"] :is(.student-card-details,.thesis-student-card .thesis-resources){border-color:#c5d7e5}
+@media(max-width:760px){.student-research-tags{gap:8px}.student-card-details{padding-top:17px}.thesis-student-card .thesis-resources{gap:7px 16px}}
+body.editorial-site main .student-research-summary{font-size:18px!important;line-height:1.8!important;color:#c6d8e7;white-space:normal;overflow-wrap:anywhere;margin:0 0 24px}
+html[data-theme="light"] body.editorial-site main .student-research-summary{color:#34546d!important}
