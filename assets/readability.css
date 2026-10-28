@@ -1,0 +1,44 @@
+/* Final typography layer: readable body copy and a 16px secondary-text floor. */
+html{font-size:18px}
+body.editorial-site{font-size:18px;line-height:1.75;color:#ecf3fa}
+body.editorial-site main :is(p,li,dd,dt){font-size:18px!important;line-height:1.75!important;color:#cbdbea}
+body.editorial-site main a{font-size:18px!important;line-height:1.65}
+body.editorial-site :is(.eyebrow,.service-kicker,.material-type,.footer-label,.publication-type,.publication-areas,.metric-category,.student-topic-kind,.learning-provider,.development-kind,.personal-status,.clock-zone){font-size:16px!important;font-weight:550!important;letter-spacing:.4px!important;line-height:1.6!important;text-transform:none!important;color:#b9d8eb}
+body.editorial-site main :is(small,.small,.citation-note,.definition-source,.metrics-note,.publication-count-note,.review-service-note,.journal-table-hint,.journal-exclusion,.certificate-pending,.drive-pending,.development-date,.development-year,.thesis-year,.publication-authors,.publication-journal,.publication-filters label,.publication-controls label,.student-record-controls label,.topic-filters label){font-size:16px!important;line-height:1.75!important;color:#bfd2e3!important}
+body.editorial-site main :is(th,td,caption){font-size:16px!important;line-height:1.7!important}
+body.editorial-site :is(input,select,textarea,button,summary){font-size:16px!important;line-height:1.6!important}
+body.editorial-site main :is(.button,.card-action-label,.doi-link,.quartile-badge,.related-publication,.publisher-link,.journal-paper-count){font-size:16px!important;line-height:1.6!important;min-height:44px}
+body.editorial-site .brand small{font-size:16px!important;line-height:1.5;letter-spacing:.2px!important}
+body.editorial-site #main-nav>a,body.editorial-site #main-nav>.teaching-dropdown>summary{font-size:16px!important;line-height:1.6;font-weight:550;min-height:44px}
+body.editorial-site #main-nav .teaching-submenu :is(strong,small),body.editorial-site #main-nav .course-level-submenu :is(strong,small){font-size:16px!important;line-height:1.6;letter-spacing:0!important}
+body.editorial-site .theme-picker label,body.editorial-site .theme-picker select{font-size:16px!important;letter-spacing:0}
+body.editorial-site .metrics span{font-size:16px!important;line-height:1.6}
+body.editorial-site .site-footer{padding-top:38px;padding-bottom:24px;background:#071a2b;color:#cbdceb}
+body.editorial-site .site-footer .footer-top{display:grid;grid-template-columns:1.25fr .8fr 1.2fr;align-items:start;gap:38px;min-height:0;height:auto}
+body.editorial-site .site-footer .footer-top>div{display:flex;flex-direction:column;align-items:flex-start;justify-content:flex-start;gap:0;grid-column:auto;min-height:0;height:auto}
+body.editorial-site .site-footer .footer-brand{font-size:26px!important;line-height:1.35;letter-spacing:-.4px;margin:0 0 18px}
+body.editorial-site .site-footer p{font-size:18px!important;line-height:1.75;margin:0;max-width:360px;color:#c5d7e7}
+body.editorial-site .site-footer .footer-label{font-size:16px!important;font-weight:600!important;letter-spacing:.4px!important;line-height:1.6;margin:0 0 12px;color:#c3dced;text-transform:none!important}
+body.editorial-site .site-footer .footer-top>div>a:not(.footer-brand){font-size:18px!important;font-weight:450;line-height:1.6;margin:0;padding:5px 0;min-height:40px;color:#d5e3ef;overflow-wrap:anywhere}
+body.editorial-site .site-footer .footer-top>div>a:hover{color:#f1d67f;text-decoration:underline}
+body.editorial-site .site-footer .footer-bottom{font-size:16px!important;line-height:1.7;color:#bfd2e3;margin-top:28px;padding-top:20px;gap:12px}
+body.editorial-site .site-footer .footer-bottom span{font-size:16px!important;line-height:1.7}
+/* Accessibility hints remain available to assistive technology, without cluttering visible links. */
+.sr-only{position:absolute!important;width:1px!important;height:1px!important;padding:0!important;margin:-1px!important;overflow:hidden!important;clip:rect(0,0,0,0)!important;clip-path:inset(50%)!important;white-space:nowrap!important;border:0!important}
+html[data-theme="light"] body.editorial-site{color:#18344b}
+html[data-theme="light"] body.editorial-site main :is(p,li,dt,dd){color:#344f67!important}
+html[data-theme="light"] body.editorial-site :is(.eyebrow,.service-kicker,.material-type,.footer-label,.publication-areas,.metric-category,.learning-provider,.personal-status){color:#315c78!important}
+html[data-theme="light"] body.editorial-site main :is(small,.small,.citation-note,.definition-source,.metrics-note,.publication-count-note,.review-service-note,.journal-table-hint,.journal-exclusion,.certificate-pending,.drive-pending,.development-date,.development-year,.thesis-year,.publication-authors,.publication-journal){color:#405e76!important}
+html[data-theme="light"] body.editorial-site .site-footer{background:#edf3f9!important;color:#24445e}
+html[data-theme="light"] body.editorial-site .site-footer :is(p,.footer-label,.footer-bottom){color:#3b5971!important}
+html[data-theme="light"] body.editorial-site .site-footer .footer-top>div>a{color:#244c6b!important}
+html[data-theme="light"] body.editorial-site .site-footer .footer-top>div>a:hover{color:#755a0d!important}
+@media(max-width:1500px) and (min-width:761px){body.editorial-site .header-inner{flex-wrap:wrap;gap:10px}body.editorial-site #main-nav{width:100%;justify-content:space-between;gap:5px 13px}}
+@media(max-width:960px){body.editorial-site .site-footer .footer-top{grid-template-columns:1fr 1fr;gap:28px 35px}body.editorial-site .site-footer .footer-top>div:first-child{grid-column:1 / -1}body.editorial-site .site-footer p{max-width:650px}}
+@media(max-width:680px){body.editorial-site .site-footer .footer-top{grid-template-columns:1fr;gap:29px}body.editorial-site .site-footer .footer-top>div:first-child{grid-column:auto}body.editorial-site .site-footer .footer-top>div>a:not(.footer-brand){min-height:44px}body.editorial-site .site-footer .footer-brand{font-size:25px!important}body.editorial-site .site-footer{padding-inline:24px}body.editorial-site .brand{font-size:18px!important}body.editorial-site .brand small{font-size:16px!important}}
+body.editorial-site main :is(figcaption,label,summary span,.publication-year,.topic-total,.journal-aggregate-note small,.recognition-actions a,.course-folder-copy .folder-status){font-size:16px!important;line-height:1.7!important}
+
+.resource-coming-soon { display: inline-block; font-size: 1rem; font-weight: 500; color: var(--muted, #b8c9d8); line-height: 1.6; }
+a, button, summary, select, input { -webkit-tap-highlight-color: transparent; }
+img { max-width: 100%; }
+@media (prefers-reduced-motion: reduce) { *, *::before, *::after { scroll-behavior: auto !important; animation-duration: 0.01ms !important; transition-duration: 0.01ms !important; } }

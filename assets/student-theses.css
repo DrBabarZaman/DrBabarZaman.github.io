@@ -1,0 +1,16 @@
+.thesis-student-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:24px;margin-top:32px}
+.thesis-student-card{display:flex;flex-direction:column;min-width:0;padding:28px;border:1px solid #4a6680;border-radius:13px;background:#142c43;box-shadow:0 3px 12px #00000008}
+.thesis-student-heading{display:flex;align-items:flex-start;justify-content:space-between;gap:18px;margin-bottom:24px}
+.editorial-site .thesis-student-heading h2{font-size:27px;line-height:1.3;letter-spacing:-.4px;margin:0;color:#f1f6fb;overflow-wrap:anywhere}
+.thesis-degree{font-size:16px;line-height:1.5;font-weight:650;border:1px solid #b79a45;border-radius:5px;color:#edd080;padding:4px 10px;flex-shrink:0}
+.editorial-site .thesis-field-label{font-size:16px!important;font-weight:550;line-height:1.6!important;color:#b6d3e7!important;margin:0 0 9px;letter-spacing:.1px}
+.editorial-site .student-research-title{font-size:18px!important;line-height:1.75!important;margin:0 0 23px;font-weight:500;white-space:normal!important;overflow:visible!important;text-overflow:clip!important;display:block!important;-webkit-line-clamp:unset!important;overflow-wrap:anywhere}
+.editorial-site .thesis-institution{font-size:18px!important;line-height:1.65!important;border-top:1px solid #3f5b74;padding-top:18px;margin:0;color:#d1dfeb!important;margin-top:auto}
+.editorial-site .thesis-year,.editorial-site .thesis-status{font-size:16px!important;margin:10px 0 0;line-height:1.7!important}
+.thesis-resources{display:flex;flex-wrap:wrap;gap:12px 20px;margin-top:20px}.thesis-resources a{min-height:44px;display:inline-flex;align-items:center}
+html[data-theme="light"] .thesis-student-card{background:#fff;border-color:#c1d2e2}
+html[data-theme="light"] .thesis-degree{color:#795e0e;border-color:#a48a3d}
+html[data-theme="light"] .editorial-site .thesis-field-label{color:#42637b!important}
+html[data-theme="light"] .editorial-site .thesis-institution{color:#294f6b!important;border-color:#c8d8e6}
+@media(max-width:760px){.thesis-student-grid{grid-template-columns:1fr;gap:18px}.thesis-student-card{padding:25px}.editorial-site .thesis-student-heading h2{font-size:25px}.thesis-student-heading{gap:15px}}
+@media print{.thesis-student-card{background:white!important;box-shadow:none;break-inside:avoid}.thesis-student-heading h2,.thesis-degree{color:#111!important}}
