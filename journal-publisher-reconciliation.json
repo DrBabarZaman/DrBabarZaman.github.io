@@ -1,0 +1,289 @@
+{
+  "reference_year": 2024,
+  "verified_date": "2026-10-26",
+  "eligible_papers": 52,
+  "eligible_journals": 22,
+  "eligible_publisher_groups": 11,
+  "all_listed_journals": 23,
+  "verified_jif_papers": 10,
+  "verified_jif_journals": 3,
+  "verified_jif_subtotal": "53.2",
+  "journals": [
+    {
+      "journal": "Arabian Journal for Science and Engineering",
+      "publisher": "Springer Nature",
+      "eligible": 2,
+      "types": {
+        "article": 2
+      },
+      "metric": null
+    },
+    {
+      "journal": "Communications in Statistics - Simulation and Computation",
+      "publisher": "Taylor & Francis",
+      "eligible": 1,
+      "types": {
+        "article": 1
+      },
+      "metric": null
+    },
+    {
+      "journal": "Communications in Statistics - Theory and Methods",
+      "publisher": "Taylor & Francis",
+      "eligible": 1,
+      "types": {
+        "article": 1
+      },
+      "metric": null
+    },
+    {
+      "journal": "Computers & Industrial Engineering",
+      "publisher": "Elsevier",
+      "eligible": 7,
+      "types": {
+        "article": 7
+      },
+      "metric": {
+        "jif": "6.5",
+        "year": 2024,
+        "quartile": "Q1",
+        "category": "Computer Science, Interdisciplinary Applications; Engineering, Industrial",
+        "source": "https://www.sciencedirect.com/science/article/abs/pii/S0360835225006990",
+        "source_name": "Elsevier journal anniversary retrospective"
+      }
+    },
+    {
+      "journal": "Concurrency and Computation: Practice and Experience",
+      "publisher": "Wiley",
+      "eligible": 2,
+      "types": {
+        "article": 2
+      },
+      "metric": null
+    },
+    {
+      "journal": "Current Science",
+      "publisher": "Current Science Association",
+      "eligible": 1,
+      "types": {
+        "article": 1
+      },
+      "metric": null
+    },
+    {
+      "journal": "Engineering Applications of Artificial Intelligence",
+      "publisher": "Elsevier",
+      "eligible": 1,
+      "types": {
+        "article": 1
+      },
+      "metric": null
+    },
+    {
+      "journal": "Expert Systems with Applications",
+      "publisher": "Elsevier",
+      "eligible": 1,
+      "types": {
+        "article": 1
+      },
+      "metric": null
+    },
+    {
+      "journal": "Hacettepe Journal of Mathematics and Statistics",
+      "publisher": "Hacettepe University",
+      "eligible": 1,
+      "types": {
+        "article": 1
+      },
+      "metric": null
+    },
+    {
+      "journal": "Investigative Ophthalmology & Visual Science",
+      "publisher": "ARVO",
+      "eligible": 0,
+      "types": {
+        "abstract": 1
+      },
+      "metric": null
+    },
+    {
+      "journal": "Journal of Statistical Computation and Simulation",
+      "publisher": "Taylor & Francis",
+      "eligible": 1,
+      "types": {
+        "article": 1
+      },
+      "metric": null
+    },
+    {
+      "journal": "Journal of the Turkish Chemical Society Section B: Chemical Engineering",
+      "publisher": "Turkish Chemical Society",
+      "eligible": 1,
+      "types": {
+        "article": 1
+      },
+      "metric": null
+    },
+    {
+      "journal": "Mathematical Problems in Engineering",
+      "publisher": "Wiley",
+      "eligible": 2,
+      "types": {
+        "article": 2
+      },
+      "metric": null
+    },
+    {
+      "journal": "Mathematics",
+      "publisher": "MDPI",
+      "eligible": 2,
+      "types": {
+        "article": 2
+      },
+      "metric": {
+        "jif": "2.2",
+        "year": 2024,
+        "quartile": "Q1",
+        "category": "Mathematics",
+        "source": "https://www.mdpi.com/journal/mathematics/history",
+        "source_name": "MDPI journal history",
+        "note": "Q1 derived from the reported 2024 rank of 30/492 using Clarivate’s quartile rule."
+      }
+    },
+    {
+      "journal": "Measurement",
+      "publisher": "Elsevier",
+      "eligible": 1,
+      "types": {
+        "article": 1
+      },
+      "metric": null
+    },
+    {
+      "journal": "Middle East African Journal of Ophthalmology",
+      "publisher": "Wolters Kluwer / Medknow",
+      "eligible": 2,
+      "types": {
+        "article": 2
+      },
+      "metric": null
+    },
+    {
+      "journal": "Quality Technology & Quantitative Management",
+      "publisher": "Taylor & Francis",
+      "eligible": 2,
+      "types": {
+        "article": 2
+      },
+      "metric": null
+    },
+    {
+      "journal": "Quality and Reliability Engineering International",
+      "publisher": "Wiley",
+      "eligible": 15,
+      "types": {
+        "article": 15,
+        "correction": 1
+      },
+      "metric": null
+    },
+    {
+      "journal": "Saudi Medical Journal",
+      "publisher": "Armed Forces Medical Services",
+      "eligible": 1,
+      "types": {
+        "article": 1
+      },
+      "metric": null
+    },
+    {
+      "journal": "Separation Science and Technology",
+      "publisher": "Taylor & Francis",
+      "eligible": 1,
+      "types": {
+        "review": 1
+      },
+      "metric": null
+    },
+    {
+      "journal": "Sultan Qaboos University Medical Journal",
+      "publisher": "Sultan Qaboos University",
+      "eligible": 1,
+      "types": {
+        "article": 1
+      },
+      "metric": null
+    },
+    {
+      "journal": "Sustainability",
+      "publisher": "MDPI",
+      "eligible": 1,
+      "types": {
+        "article": 1
+      },
+      "metric": {
+        "jif": "3.3",
+        "year": 2024,
+        "quartile": "Q2",
+        "category": "Environmental Studies",
+        "source": "https://www.mdpi.com/journal/sustainability?authAll=true%2F1000",
+        "source_name": "MDPI journal information"
+      }
+    },
+    {
+      "journal": "The International Journal of Advanced Manufacturing Technology",
+      "publisher": "Springer Nature",
+      "eligible": 5,
+      "types": {
+        "article": 5
+      },
+      "metric": null
+    }
+  ],
+  "reviewer_service": [
+    [
+      "Elsevier",
+      [
+        [
+          "Computers & Industrial Engineering",
+          "https://www.sciencedirect.com/journal/computers-and-industrial-engineering"
+        ],
+        [
+          "Expert Systems with Applications",
+          "https://www.sciencedirect.com/journal/expert-systems-with-applications"
+        ]
+      ]
+    ],
+    [
+      "Wiley",
+      [
+        [
+          "Quality and Reliability Engineering International",
+          "https://onlinelibrary.wiley.com/journal/10991638"
+        ]
+      ]
+    ],
+    [
+      "Taylor & Francis",
+      [
+        [
+          "Journal of Quality Technology",
+          "https://www.tandfonline.com/journals/ujqt20"
+        ],
+        [
+          "Communications in Statistics – Simulation and Computation",
+          "https://www.tandfonline.com/journals/lssp20"
+        ]
+      ]
+    ],
+    [
+      "Springer Nature / Nature Portfolio",
+      [
+        [
+          "Scientific Reports",
+          "https://www.nature.com/srep/"
+        ]
+      ]
+    ]
+  ]
+}

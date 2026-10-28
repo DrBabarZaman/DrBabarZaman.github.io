@@ -1,0 +1,981 @@
+[
+  {
+    "citation": "Shaheen, A., Zaman, B., Nadir, S., Mukhtiar, F., & Butt, N. R. (2026). Semi-parametric Bayesian physics-informed neural network-based digital twin for dynamical systems. Expert Systems with Applications, 133907",
+    "authors": "Shaheen, A., Zaman, B., Nadir, S., Mukhtiar, F., & Butt, N. R.",
+    "year": "2026",
+    "title": "Semi-parametric Bayesian physics-informed neural network-based digital twin for dynamical systems",
+    "journal": "Expert Systems with Applications, 133907",
+    "query_url": "https://api.crossref.org/works?query.title=Semi-parametric+Bayesian+physics-informed+neural+network-based+digital+twin+for+dynamical+systems&query.author=Zaman&rows=3&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ccontainer-title",
+    "status": "verified",
+    "error": "HTTP Error 429: Too Many Requests",
+    "doi": "10.1016/j.eswa.2026.133907",
+    "matched_title": "Semi-parametric Bayesian physics-informed neural network-based digital twin for dynamical systems",
+    "source": "Elsevier ScienceDirect",
+    "record_url": "https://www.sciencedirect.com/science/article/pii/S0957417426028150",
+    "publisher_issue_year": 2027,
+    "note": "DOI and author list matched on publisher result; citation year retained from supplied CV."
+  },
+  {
+    "citation": "Tauqeer, F., Zaman, B., Riaz, M., & Arshad, I. A. (2026). A multivariate adaptive cumulative sum control chart based on machine learning approach, support vector regression with applications. The International Journal of Advanced Manufacturing Technology, 1-29",
+    "authors": "Tauqeer, F., Zaman, B., Riaz, M., & Arshad, I. A.",
+    "year": "2026",
+    "title": "A multivariate adaptive cumulative sum control chart based on machine learning approach, support vector regression with applications",
+    "journal": "The International Journal of Advanced Manufacturing Technology, 1-29",
+    "query_url": "https://api.crossref.org/works?query.title=A+multivariate+adaptive+cumulative+sum+control+chart+based+on+machine+learning+approach%2C+support+vector+regression+with+applications&query.author=Zaman&rows=3&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ccontainer-title",
+    "status": "verified",
+    "doi": "10.1007/s00170-026-18607-3",
+    "matched_title": "A multivariate adaptive cumulative sum control chart based on machine learning approach, support vector regression with applications",
+    "similarity": 1.0,
+    "source": "Crossref",
+    "record_url": "https://api.crossref.org/works/10.1007%2Fs00170-026-18607-3",
+    "record_year": [
+      2026,
+      7,
+      7
+    ]
+  },
+  {
+    "citation": "Mukhtiar, F., Zaman, B., Butt, N. R., Ajab, M., & Faraz, M. I. (2026). Data-driven control charts for monitoring Gamma-distributed manufacturing processes using machine learning. The International Journal of Advanced Manufacturing Technology, 1-30",
+    "authors": "Mukhtiar, F., Zaman, B., Butt, N. R., Ajab, M., & Faraz, M. I.",
+    "year": "2026",
+    "title": "Data-driven control charts for monitoring Gamma-distributed manufacturing processes using machine learning",
+    "journal": "The International Journal of Advanced Manufacturing Technology, 1-30",
+    "query_url": "https://api.crossref.org/works?query.title=Data-driven+control+charts+for+monitoring+Gamma-distributed+manufacturing+processes+using+machine+learning&query.author=Zaman&rows=3&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ccontainer-title",
+    "status": "verified",
+    "doi": "10.1007/s00170-026-18335-8",
+    "matched_title": "Data-driven control charts for monitoring Gamma-distributed manufacturing processes using machine learning",
+    "similarity": 1.0,
+    "source": "Crossref",
+    "record_url": "https://api.crossref.org/works/10.1007%2Fs00170-026-18335-8",
+    "record_year": [
+      2026,
+      5,
+      22
+    ]
+  },
+  {
+    "citation": "Khan, N., Imran, T., Zaman, B., Mehmood, R., Mpungu, K., & Ali, I. (2026). Performance of the mean control charts with generalized sensitizing rules for various probability distribution. Quality Technology & Quantitative Management, 23(3), 423-457",
+    "authors": "Khan, N., Imran, T., Zaman, B., Mehmood, R., Mpungu, K., & Ali, I.",
+    "year": "2026",
+    "title": "Performance of the mean control charts with generalized sensitizing rules for various probability distribution",
+    "journal": "Quality Technology & Quantitative Management, 23(3), 423-457",
+    "query_url": "https://api.crossref.org/works?query.title=Performance+of+the+mean+control+charts+with+generalized+sensitizing+rules+for+various+probability+distribution&query.author=Zaman&rows=3&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ccontainer-title",
+    "status": "verified",
+    "doi": "10.1080/16843703.2025.2512298",
+    "matched_title": "Performance of the mean control charts with generalized sensitizing rules for various probability distribution",
+    "similarity": 1.0,
+    "source": "Crossref",
+    "record_url": "https://api.crossref.org/works/10.1080%2F16843703.2025.2512298",
+    "record_year": [
+      2025,
+      6,
+      12
+    ]
+  },
+  {
+    "citation": "Ajab, M., Zaman, B., Mukhtiar, F., Butt, N. R., & Faraz, M. I. (2026). Enhancing statistical process control with machine learning: The Iso - CUSUM control chart for multivariate process. Computers & Industrial Engineering, 212,11175.",
+    "authors": "Ajab, M., Zaman, B., Mukhtiar, F., Butt, N. R., & Faraz, M. I.",
+    "year": "2026",
+    "title": "Enhancing statistical process control with machine learning: The Iso - CUSUM control chart for multivariate process",
+    "journal": "Computers & Industrial Engineering, 212,11175.",
+    "query_url": "https://api.crossref.org/works?query.title=Enhancing+statistical+process+control+with+machine+learning%3A+The+Iso+-+CUSUM+control+chart+for+multivariate+process&query.author=Zaman&rows=3&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ccontainer-title",
+    "status": "verified",
+    "doi": "10.1016/j.cie.2025.111750",
+    "matched_title": "Enhancing statistical process control with machine learning: The Iso-CUSUM control chart for multivariate process",
+    "similarity": 1.0,
+    "source": "Crossref",
+    "record_url": "https://api.crossref.org/works/10.1016%2Fj.cie.2025.111750",
+    "record_year": [
+      2026,
+      2
+    ]
+  },
+  {
+    "citation": "Tauqeer, F., Riaz, M., Zaman, B., & Arshad, I. A. (2026). A simulation-based Bayesian multivariate adaptive EWMA framework with hybrid score functions for monitoring water quality. Journal of Statistical Computation and Simulation, 96(5), 1225–1269.",
+    "authors": "Tauqeer, F., Riaz, M., Zaman, B., & Arshad, I. A.",
+    "year": "2026",
+    "title": "A simulation-based Bayesian multivariate adaptive EWMA framework with hybrid score functions for monitoring water quality",
+    "journal": "Journal of Statistical Computation and Simulation, 96(5), 1225–1269.",
+    "query_url": "https://api.crossref.org/works?query.title=A+simulation-based+Bayesian+multivariate+adaptive+EWMA+framework+with+hybrid+score+functions+for+monitoring+water+quality&query.author=Zaman&rows=3&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ccontainer-title",
+    "status": "verified",
+    "doi": "10.1080/00949655.2025.2584733",
+    "matched_title": "A simulation-based Bayesian multivariate adaptive EWMA framework with hybrid score functions for monitoring water quality",
+    "similarity": 1.0,
+    "source": "Crossref",
+    "record_url": "https://api.crossref.org/works/10.1080%2F00949655.2025.2584733",
+    "record_year": [
+      2025,
+      12,
+      2
+    ]
+  },
+  {
+    "citation": "Zaman, B., Riaz, M., & Butt, N. R. (2025). Memory control chart based on machine learning technique for efficient process monitoring. Computers & Industrial Engineering, 201,110894.",
+    "authors": "Zaman, B., Riaz, M., & Butt, N. R.",
+    "year": "2025",
+    "title": "Memory control chart based on machine learning technique for efficient process monitoring",
+    "journal": "Computers & Industrial Engineering, 201,110894.",
+    "query_url": "https://api.crossref.org/works?query.title=Memory+control+chart+based+on+machine+learning+technique+for+efficient+process+monitoring&query.author=Zaman&rows=3&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ccontainer-title",
+    "status": "verified",
+    "doi": "10.1016/j.cie.2025.110894",
+    "matched_title": "Memory control chart based on machine learning technique for efficient process monitoring",
+    "similarity": 1.0,
+    "source": "Crossref",
+    "record_url": "https://api.crossref.org/works/10.1016%2Fj.cie.2025.110894",
+    "record_year": [
+      2025,
+      3
+    ]
+  },
+  {
+    "citation": "Zaman, B., Mahfooz, S. Z., Khan, N., & Abbasi, S. A. (2025). Optimizing process monitoring: Adaptive CUSUM control chart with hybrid score functions. Measurement, 254,117847.",
+    "authors": "Zaman, B., Mahfooz, S. Z., Khan, N., & Abbasi, S. A.",
+    "year": "2025",
+    "title": "Optimizing process monitoring: Adaptive CUSUM control chart with hybrid score functions",
+    "journal": "Measurement, 254,117847.",
+    "query_url": "https://api.crossref.org/works?query.title=Optimizing+process+monitoring%3A+Adaptive+CUSUM+control+chart+with+hybrid+score+functions&query.author=Zaman&rows=3&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ccontainer-title",
+    "status": "verified",
+    "doi": "10.1016/j.measurement.2025.117847",
+    "matched_title": "Optimizing process monitoring: Adaptive CUSUM control chart with hybrid score functions",
+    "similarity": 1.0,
+    "source": "Crossref",
+    "record_url": "https://api.crossref.org/works/10.1016%2Fj.measurement.2025.117847",
+    "record_year": [
+      2025,
+      10
+    ]
+  },
+  {
+    "citation": "Mukhtiar, F., Zaman, B., & Butt, N. R. (2025). Enhanced process monitoring using machine learning-based control charts for poisson-distributed data. Engineering Applications of Artificial Intelligence, 157.",
+    "authors": "Mukhtiar, F., Zaman, B., & Butt, N. R.",
+    "year": "2025",
+    "title": "Enhanced process monitoring using machine learning-based control charts for poisson-distributed data",
+    "journal": "Engineering Applications of Artificial Intelligence, 157.",
+    "query_url": "https://api.crossref.org/works?query.title=Enhanced+process+monitoring+using+machine+learning-based+control+charts+for+poisson-distributed+data&query.author=Zaman&rows=3&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ccontainer-title",
+    "status": "verified",
+    "doi": "10.1016/j.engappai.2025.111227",
+    "matched_title": "Enhanced process monitoring using machine learning-based control charts for poisson-distributed data",
+    "similarity": 1.0,
+    "source": "Crossref",
+    "record_url": "https://api.crossref.org/works/10.1016%2Fj.engappai.2025.111227",
+    "record_year": [
+      2025,
+      10
+    ]
+  },
+  {
+    "citation": "Zaman, B., & Khan, N. (2025). Adaptive CUSUM control chart utilizing supervised learning for monitoring the process location parameter: A case study application. Quality and Reliability Engineering International, 41, 2032–2050.",
+    "authors": "Zaman, B., & Khan, N.",
+    "year": "2025",
+    "title": "Adaptive CUSUM control chart utilizing supervised learning for monitoring the process location parameter: A case study application",
+    "journal": "Quality and Reliability Engineering International, 41, 2032–2050.",
+    "query_url": "https://api.crossref.org/works?query.title=Adaptive+CUSUM+control+chart+utilizing+supervised+learning+for+monitoring+the+process+location+parameter%3A+A+case+study+application&query.author=Zaman&rows=3&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ccontainer-title",
+    "status": "verified",
+    "doi": "10.1002/qre.3760",
+    "matched_title": "Adaptive CUSUM Control Chart Utilizing Supervised Learning for Monitoring the Process Location Parameter: A Case Study Application",
+    "similarity": 1.0,
+    "source": "Crossref",
+    "record_url": "https://api.crossref.org/works/10.1002%2Fqre.3760",
+    "record_year": [
+      2025,
+      3,
+      10
+    ]
+  },
+  {
+    "citation": "Riaz, M., Mehmood, R., Ali, I., Zaman, B., Khan, N., & Gharib, M. (2025). Generalized multivariate EWMA control chart supplemented with bivariate ranked set techniques. Quality Technology & Quantitative Management, 22(2), 228–256.",
+    "authors": "Riaz, M., Mehmood, R., Ali, I., Zaman, B., Khan, N., & Gharib, M.",
+    "year": "2025",
+    "title": "Generalized multivariate EWMA control chart supplemented with bivariate ranked set techniques",
+    "journal": "Quality Technology & Quantitative Management, 22(2), 228–256.",
+    "query_url": "https://api.crossref.org/works?query.title=Generalized+multivariate+EWMA+control+chart+supplemented+with+bivariate+ranked+set+techniques&query.author=Zaman&rows=3&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ccontainer-title",
+    "status": "verified",
+    "doi": "10.1080/16843703.2024.2313247",
+    "matched_title": "Generalized multivariate EWMA control chart supplemented with bivariate ranked set techniques",
+    "similarity": 1.0,
+    "source": "Crossref",
+    "record_url": "https://api.crossref.org/works/10.1080%2F16843703.2024.2313247",
+    "record_year": [
+      2024,
+      2,
+      14
+    ]
+  },
+  {
+    "citation": "Khan, M. N., Zaman, B., Abulkhair, H., & Bamaga, O. (2025). A perspective on hydrate-based CO2 captures for industrial gas mixtures. Separation Science and Technology, 60(17), 2528–2565.",
+    "authors": "Khan, M. N., Zaman, B., Abulkhair, H., & Bamaga, O.",
+    "year": "2025",
+    "title": "A perspective on hydrate-based CO2 captures for industrial gas mixtures",
+    "journal": "Separation Science and Technology, 60(17), 2528–2565.",
+    "query_url": "https://api.crossref.org/works?query.title=A+perspective+on+hydrate-based+CO2+captures+for+industrial+gas+mixtures&query.author=Zaman&rows=3&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ccontainer-title",
+    "status": "unverified"
+  },
+  {
+    "citation": "Amir, M. W., Nazir, H. Z., Abbas, Z., Akhtar, N., & Zaman, B. (2025). Development of efficient control charts for monitoring mean of paired differences of quality characteristics. Concurrency and Computation: Practice and Experience, 37(25-26), e70349.",
+    "authors": "Amir, M. W., Nazir, H. Z., Abbas, Z., Akhtar, N., & Zaman, B.",
+    "year": "2025",
+    "title": "Development of efficient control charts for monitoring mean of paired differences of quality characteristics",
+    "journal": "Concurrency and Computation: Practice and Experience, 37(25-26), e70349.",
+    "query_url": "https://api.crossref.org/works?query.title=Development+of+efficient+control+charts+for+monitoring+mean+of+paired+differences+of+quality+characteristics&query.author=Zaman&rows=3&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ccontainer-title",
+    "status": "verified",
+    "doi": "10.1002/cpe.70349",
+    "matched_title": "Development of Efficient Control Charts for Monitoring Mean of Paired Differences of Quality Characteristics",
+    "similarity": 1.0,
+    "source": "Crossref",
+    "record_url": "https://api.crossref.org/works/10.1002%2Fcpe.70349",
+    "record_year": [
+      2025,
+      10,
+      19
+    ]
+  },
+  {
+    "citation": "Mehmood, R., Khan, M. N., Ali, I., Imran, T., Zaman, B., Mpungu, K., Qureshi, F., & Abdelwahab, M. E. (2025). Efficient techniques for designing and evaluating multivariate Hotelling control chart with generalized sensitizing rules. Hacettepe Journal of Mathematics and Statistics, 54(4), 1588–1621.",
+    "authors": "Mehmood, R., Khan, M. N., Ali, I., Imran, T., Zaman, B., Mpungu, K., Qureshi, F., & Abdelwahab, M. E.",
+    "year": "2025",
+    "title": "Efficient techniques for designing and evaluating multivariate Hotelling control chart with generalized sensitizing rules",
+    "journal": "Hacettepe Journal of Mathematics and Statistics, 54(4), 1588–1621.",
+    "query_url": "https://api.crossref.org/works?query.title=Efficient+techniques+for+designing+and+evaluating+multivariate+Hotelling+control+chart+with+generalized+sensitizing+rules&query.author=Zaman&rows=3&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ccontainer-title",
+    "status": "verified",
+    "doi": "10.15672/hujms.1541132",
+    "matched_title": "Efficient techniques for designing and evaluating multivariate Hotelling control chart with generalized sensitizing rules",
+    "similarity": 1.0,
+    "source": "Crossref",
+    "record_url": "https://api.crossref.org/works/10.15672%2Fhujms.1541132",
+    "record_year": [
+      2025,
+      8,
+      29
+    ]
+  },
+  {
+    "citation": "Mehmood, R., Khan, N., Qureshi, F. H., Zaman, B., Mpungu, K., & Imran, T. (2025). Multivariate generalized variance control chart under sensitizing rules with an application in petroleum process. Communications in Statistics - Theory and Methods, 54(15), 4830–4858.",
+    "authors": "Mehmood, R., Khan, N., Qureshi, F. H., Zaman, B., Mpungu, K., & Imran, T.",
+    "year": "2025",
+    "title": "Multivariate generalized variance control chart under sensitizing rules with an application in petroleum process",
+    "journal": "Communications in Statistics - Theory and Methods, 54(15), 4830–4858.",
+    "query_url": "https://api.crossref.org/works?query.title=Multivariate+generalized+variance+control+chart+under+sensitizing+rules+with+an+application+in+petroleum+process&query.author=Zaman&rows=3&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ccontainer-title",
+    "status": "verified",
+    "doi": "10.1080/03610926.2024.2428996",
+    "matched_title": "Multivariate generalized variance control chart under sensitizing rules with an application in petroleum process",
+    "similarity": 1.0,
+    "source": "Crossref",
+    "record_url": "https://api.crossref.org/works/10.1080%2F03610926.2024.2428996",
+    "record_year": [
+      2025,
+      1,
+      18
+    ]
+  },
+  {
+    "citation": "Khan, M. N., Warrier, P., Zaman, B., & Peters, C. (2025). Examining the prediction of vapor-liquid equilibria through comparative analysis: Deep learning versus classical cubic and associating fluid theory approaches. Journal of the Turkish Chemical Society Section B: Chemical Engineering, 8(1), 11–28.",
+    "authors": "Khan, M. N., Warrier, P., Zaman, B., & Peters, C.",
+    "year": "2025",
+    "title": "Examining the prediction of vapor-liquid equilibria through comparative analysis: Deep learning versus classical cubic and associating fluid theory approaches",
+    "journal": "Journal of the Turkish Chemical Society Section B: Chemical Engineering, 8(1), 11–28.",
+    "query_url": "https://api.crossref.org/works?query.title=Examining+the+prediction+of+vapor-liquid+equilibria+through+comparative+analysis%3A+Deep+learning+versus+classical+cubic+and+associating+fluid+theory+approaches&query.author=Zaman&rows=3&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ccontainer-title",
+    "status": "verified",
+    "doi": "10.58692/jotcsb.1545110",
+    "matched_title": "Examining the Prediction of Vapor-Liquid Equilibria through Comparative Analysis: Deep Learning versus Classical Cubic and Associating Fluid Theory Approaches",
+    "similarity": 1.0,
+    "source": "Crossref",
+    "record_url": "https://api.crossref.org/works/10.58692%2Fjotcsb.1545110",
+    "record_year": [
+      2025,
+      3,
+      11
+    ]
+  },
+  {
+    "citation": "Zaman, B., Nazir, H. Z., Khan, N., Riaz, M., & Abbas, T. (2024). Corrections to \"An adaptive EWMA control chart based on Hampel function to monitor the process location parameter\" by Zaman et al. (2023). Quality and Reliability Engineering International, 40(2), 752–757.",
+    "authors": "Zaman, B., Nazir, H. Z., Khan, N., Riaz, M., & Abbas, T.",
+    "year": "2024",
+    "title": "Corrections to \"An adaptive EWMA control chart based on Hampel function to monitor the process location parameter\" by Zaman et al. (2023)",
+    "journal": "Quality and Reliability Engineering International, 40(2), 752–757.",
+    "query_url": "https://api.crossref.org/works?query.title=Corrections+to+%22An+adaptive+EWMA+control+chart+based+on+Hampel+function+to+monitor+the+process+location+parameter%22+by+Zaman+et+al.+%282023%29&query.author=Zaman&rows=3&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ccontainer-title",
+    "status": "verified",
+    "doi": "10.1002/qre.3420",
+    "matched_title": "Corrections to an adaptive EWMA control chart based on Hampel function to monitor the process location parameter by Zaman et al. (2023)",
+    "similarity": 1.0,
+    "source": "Crossref",
+    "record_url": "https://api.crossref.org/works/10.1002%2Fqre.3420",
+    "record_year": [
+      2023,
+      7,
+      28
+    ]
+  },
+  {
+    "citation": "Akhtar, N., Abid, M., Zaman, B., & Riaz, M. (2024). A new adaptive CUSUM control chart based on Hampel function to monitor location parameter. Quality and Reliability Engineering International, 40, 1246–1278.",
+    "authors": "Akhtar, N., Abid, M., Zaman, B., & Riaz, M.",
+    "year": "2024",
+    "title": "A new adaptive CUSUM control chart based on Hampel function to monitor location parameter",
+    "journal": "Quality and Reliability Engineering International, 40, 1246–1278.",
+    "query_url": "https://api.crossref.org/works?query.title=A+new+adaptive+CUSUM+control+chart+based+on+Hampel+function+to+monitor+location+parameter&query.author=Zaman&rows=3&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ccontainer-title",
+    "status": "verified",
+    "doi": "10.1002/qre.3463",
+    "matched_title": "A new adaptive CUSUM control chart based on Hampel function to monitor location parameter",
+    "similarity": 1.0,
+    "source": "Crossref",
+    "record_url": "https://api.crossref.org/works/10.1002%2Fqre.3463",
+    "record_year": [
+      2023,
+      11,
+      2
+    ]
+  },
+  {
+    "citation": "Zaman, B., Mahfooz, S. Z., Khan, N., Riaz, M., & Mehmood, R. (2023). Integration of hybrid score functions to design new adaptive EWMA control chart to monitor the process mean shift. Computers & Industrial Engineering, 183,109543.",
+    "authors": "Zaman, B., Mahfooz, S. Z., Khan, N., Riaz, M., & Mehmood, R.",
+    "year": "2023",
+    "title": "Integration of hybrid score functions to design new adaptive EWMA control chart to monitor the process mean shift",
+    "journal": "Computers & Industrial Engineering, 183,109543.",
+    "query_url": "https://api.crossref.org/works?query.title=Integration+of+hybrid+score+functions+to+design+new+adaptive+EWMA+control+chart+to+monitor+the+process+mean+shift&query.author=Zaman&rows=3&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ccontainer-title",
+    "status": "verified",
+    "doi": "10.1016/j.cie.2023.109543",
+    "matched_title": "Integration of hybrid score functions to design new adaptive EWMA control chart to monitor the process mean shift",
+    "similarity": 1.0,
+    "source": "Crossref",
+    "record_url": "https://api.crossref.org/works/10.1016%2Fj.cie.2023.109543",
+    "record_year": [
+      2023,
+      9
+    ]
+  },
+  {
+    "citation": "Mehmood, R., Mpungu, K., Ali, I., Zaman, B., Qureshi, F. H., & Khan, N. (2023). A new approach for designing the Shewhart-type control charts with generalized sensitizing rules. Computers & Industrial Engineering, 182, 109379.",
+    "authors": "Mehmood, R., Mpungu, K., Ali, I., Zaman, B., Qureshi, F. H., & Khan, N.",
+    "year": "2023",
+    "title": "A new approach for designing the Shewhart-type control charts with generalized sensitizing rules",
+    "journal": "Computers & Industrial Engineering, 182, 109379.",
+    "query_url": "https://api.crossref.org/works?query.title=A+new+approach+for+designing+the+Shewhart-type+control+charts+with+generalized+sensitizing+rules&query.author=Zaman&rows=3&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ccontainer-title",
+    "status": "verified",
+    "doi": "10.1016/j.cie.2023.109379",
+    "matched_title": "A new approach for designing the Shewhart-type control charts with generalized sensitizing rules",
+    "similarity": 1.0,
+    "source": "Crossref",
+    "record_url": "https://api.crossref.org/works/10.1016%2Fj.cie.2023.109379",
+    "record_year": [
+      2023,
+      8
+    ]
+  },
+  {
+    "citation": "Zaman, B., Mahfooz, S. Z., Mehmood, R., Khan, N., & Imran, T. (2023). An adaptive EWMA control chart based on Hampel function to monitor the process location parameter. Quality and Reliability Engineering International, 39, 1277–1298.",
+    "authors": "Zaman, B., Mahfooz, S. Z., Mehmood, R., Khan, N., & Imran, T.",
+    "year": "2023",
+    "title": "An adaptive EWMA control chart based on Hampel function to monitor the process location parameter",
+    "journal": "Quality and Reliability Engineering International, 39, 1277–1298.",
+    "query_url": "https://api.crossref.org/works?query.title=An+adaptive+EWMA+control+chart+based+on+Hampel+function+to+monitor+the+process+location+parameter&query.author=Zaman&rows=3&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ccontainer-title",
+    "status": "verified",
+    "doi": "10.1002/qre.3291",
+    "matched_title": "An adaptive EWMA control chart based on Hampel function to monitor the process location parameter",
+    "similarity": 1.0,
+    "source": "Crossref",
+    "record_url": "https://api.crossref.org/works/10.1002%2Fqre.3291",
+    "record_year": [
+      2023,
+      2,
+      21
+    ]
+  },
+  {
+    "citation": "Zaman, B., Lee, M. H., Riaz, M., & Abujiya, M. R. (2022). Adaptive memory control charts constructed on generalized likelihood ratio test to monitor process location. Arabian Journal for Science and Engineering, 47, 15049–15081.",
+    "authors": "Zaman, B., Lee, M. H., Riaz, M., & Abujiya, M. R.",
+    "year": "2022",
+    "title": "Adaptive memory control charts constructed on generalized likelihood ratio test to monitor process location",
+    "journal": "Arabian Journal for Science and Engineering, 47, 15049–15081.",
+    "query_url": "https://api.crossref.org/works?query.title=Adaptive+memory+control+charts+constructed+on+generalized+likelihood+ratio+test+to+monitor+process+location&query.author=Zaman&rows=3&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ccontainer-title",
+    "status": "verified",
+    "doi": "10.1007/s13369-022-06803-8",
+    "matched_title": "Adaptive Memory Control Charts Constructed on Generalized Likelihood Ratio Test to Monitor Process Location",
+    "similarity": 1.0,
+    "source": "Crossref",
+    "record_url": "https://api.crossref.org/works/10.1007%2Fs13369-022-06803-8",
+    "record_year": [
+      2022,
+      4,
+      19
+    ]
+  },
+  {
+    "citation": "Zaman, B., Riaz, M., Abujiya, M. R., & Mehmood, R. (2022). Adaptive CUSUM location control charts based on score functions: An application in semiconductor wafer field. Arabian Journal for Science and Engineering, 47, 3725–3749.",
+    "authors": "Zaman, B., Riaz, M., Abujiya, M. R., & Mehmood, R.",
+    "year": "2022",
+    "title": "Adaptive CUSUM location control charts based on score functions: An application in semiconductor wafer field",
+    "journal": "Arabian Journal for Science and Engineering, 47, 3725–3749.",
+    "query_url": "https://api.crossref.org/works?query.title=Adaptive+CUSUM+location+control+charts+based+on+score+functions%3A+An+application+in+semiconductor+wafer+field&query.author=Zaman&rows=3&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ccontainer-title",
+    "status": "verified",
+    "doi": "10.1007/s13369-021-05878-z",
+    "matched_title": "Adaptive CUSUM Location Control Charts Based on Score Functions: An Application in Semiconductor Wafer Field",
+    "similarity": 1.0,
+    "source": "Crossref",
+    "record_url": "https://api.crossref.org/works/10.1007%2Fs13369-021-05878-z",
+    "record_year": [
+      2021,
+      7,
+      25
+    ]
+  },
+  {
+    "citation": "Zaman, B. (2022). Adaptive CUSUM control charts for efficient monitoring of process dispersion. Quality and Reliability Engineering International, 38, 2273–2302.",
+    "authors": "Zaman, B.",
+    "year": "2022",
+    "title": "Adaptive CUSUM control charts for efficient monitoring of process dispersion",
+    "journal": "Quality and Reliability Engineering International, 38, 2273–2302.",
+    "query_url": "https://api.crossref.org/works?query.title=Adaptive+CUSUM+control+charts+for+efficient+monitoring+of+process+dispersion&query.author=Zaman&rows=3&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ccontainer-title",
+    "status": "verified",
+    "doi": "10.1002/qre.3075",
+    "matched_title": "Adaptive CUSUM control charts for efficient monitoring of process dispersion",
+    "similarity": 1.0,
+    "source": "Crossref",
+    "record_url": "https://api.crossref.org/works/10.1002%2Fqre.3075",
+    "record_year": [
+      2022,
+      2
+    ]
+  },
+  {
+    "citation": "Aslam, M., Khan, M., Anwar, S. M., & Zaman, B. (2022). A homogeneously weighted moving average control chart for monitoring time between events. Quality and Reliability Engineering International, 38, 1013–1044.",
+    "authors": "Aslam, M., Khan, M., Anwar, S. M., & Zaman, B.",
+    "year": "2022",
+    "title": "A homogeneously weighted moving average control chart for monitoring time between events",
+    "journal": "Quality and Reliability Engineering International, 38, 1013–1044.",
+    "query_url": "https://api.crossref.org/works?query.title=A+homogeneously+weighted+moving+average+control+chart+for+monitoring+time+between+events&query.author=Zaman&rows=3&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ccontainer-title",
+    "status": "verified",
+    "doi": "10.1002/qre.3032",
+    "matched_title": "A homogeneously weighted moving average control chart for monitoring time between events",
+    "similarity": 1.0,
+    "source": "Crossref",
+    "record_url": "https://api.crossref.org/works/10.1002%2Fqre.3032",
+    "record_year": [
+      2021,
+      12,
+      3
+    ]
+  },
+  {
+    "citation": "Anwar, S. M., Aslam, M., Zaman, B., & Riaz, M. (2022). An enhanced double homogeneously weighted moving average control chart to monitor process location with application in automobile field. Quality and Reliability Engineering International, 38, 174–194.",
+    "authors": "Anwar, S. M., Aslam, M., Zaman, B., & Riaz, M.",
+    "year": "2022",
+    "title": "An enhanced double homogeneously weighted moving average control chart to monitor process location with application in automobile field",
+    "journal": "Quality and Reliability Engineering International, 38, 174–194.",
+    "query_url": "https://api.crossref.org/works?query.title=An+enhanced+double+homogeneously+weighted+moving+average+control+chart+to+monitor+process+location+with+application+in+automobile+field&query.author=Zaman&rows=3&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ccontainer-title",
+    "status": "verified",
+    "doi": "10.1002/qre.2966",
+    "matched_title": "An enhanced double homogeneously weighted moving average control chart to monitor process location with application in automobile field",
+    "similarity": 1.0,
+    "source": "Crossref",
+    "record_url": "https://api.crossref.org/works/10.1002%2Fqre.2966",
+    "record_year": [
+      2021,
+      8,
+      10
+    ]
+  },
+  {
+    "citation": "Khan, M., Aslam, M., Anwar, S. M., & Zaman, B. (2022). A robust hybrid exponentially weighted moving average chart for monitoring time between events. Quality and Reliability Engineering International, 38, 895–923.",
+    "authors": "Khan, M., Aslam, M., Anwar, S. M., & Zaman, B.",
+    "year": "2022",
+    "title": "A robust hybrid exponentially weighted moving average chart for monitoring time between events",
+    "journal": "Quality and Reliability Engineering International, 38, 895–923.",
+    "query_url": "https://api.crossref.org/works?query.title=A+robust+hybrid+exponentially+weighted+moving+average+chart+for+monitoring+time+between+events&query.author=Zaman&rows=3&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ccontainer-title",
+    "status": "verified",
+    "doi": "10.1002/qre.3021",
+    "matched_title": "A robust hybrid exponentially weighted moving average chart for monitoring time between events",
+    "similarity": 1.0,
+    "source": "Crossref",
+    "record_url": "https://api.crossref.org/works/10.1002%2Fqre.3021",
+    "record_year": [
+      2021,
+      11,
+      18
+    ]
+  },
+  {
+    "citation": "Riaz, M., Zaman, B., Raji, I. A., Omar, M. H., Mehmood, R., & Abbas, N. (2022). An adaptive EWMA control chart based on principal component method to monitor process mean vector. Mathematics, 10(12), 2025.",
+    "authors": "Riaz, M., Zaman, B., Raji, I. A., Omar, M. H., Mehmood, R., & Abbas, N.",
+    "year": "2022",
+    "title": "An adaptive EWMA control chart based on principal component method to monitor process mean vector",
+    "journal": "Mathematics, 10(12), 2025.",
+    "query_url": "https://api.crossref.org/works?query.title=An+adaptive+EWMA+control+chart+based+on+principal+component+method+to+monitor+process+mean+vector&query.author=Zaman&rows=3&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ccontainer-title",
+    "status": "verified",
+    "doi": "10.3390/math10122025",
+    "matched_title": "An Adaptive EWMA Control Chart Based on Principal Component Method to Monitor Process Mean Vector",
+    "similarity": 1.0,
+    "source": "Crossref",
+    "record_url": "https://api.crossref.org/works/10.3390%2Fmath10122025",
+    "record_year": [
+      2022,
+      6,
+      11
+    ]
+  },
+  {
+    "citation": "Riaz, M., Mehmood, R., Rehman, M., Ali, I., & Zaman, B. (2022). Mean control chart based on ranked set schemes for unknown skewed probability distribution and parameters. Concurrency and Computation: Practice and Experience, 34(21),e7065.",
+    "authors": "Riaz, M., Mehmood, R., Rehman, M., Ali, I., & Zaman, B.",
+    "year": "2022",
+    "title": "Mean control chart based on ranked set schemes for unknown skewed probability distribution and parameters",
+    "journal": "Concurrency and Computation: Practice and Experience, 34(21),e7065.",
+    "query_url": "https://api.crossref.org/works?query.title=Mean+control+chart+based+on+ranked+set+schemes+for+unknown+skewed+probability+distribution+and+parameters&query.author=Zaman&rows=3&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ccontainer-title",
+    "status": "verified",
+    "doi": "10.1002/cpe.7065",
+    "matched_title": "Mean control chart based on ranked set schemes for unknown skewed probability distribution and parameters",
+    "similarity": 1.0,
+    "source": "Crossref",
+    "record_url": "https://api.crossref.org/works/10.1002%2Fcpe.7065",
+    "record_year": [
+      2022,
+      5,
+      17
+    ]
+  },
+  {
+    "citation": "Mehmood, R., Lee, M. H., Riaz, M., Zaman, B., & Ali, I. (2022). Hotelling T2 control chart based on bivariate ranked set schemes. Communications in Statistics - Simulation and Computation, 51(1), 1–28.",
+    "authors": "Mehmood, R., Lee, M. H., Riaz, M., Zaman, B., & Ali, I.",
+    "year": "2022",
+    "title": "Hotelling T2 control chart based on bivariate ranked set schemes",
+    "journal": "Communications in Statistics - Simulation and Computation, 51(1), 1–28.",
+    "query_url": "https://api.crossref.org/works?query.title=Hotelling+T2+control+chart+based+on+bivariate+ranked+set+schemes&query.author=Zaman&rows=3&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ccontainer-title",
+    "status": "unverified"
+  },
+  {
+    "citation": "Anwar, S. M., Aslam, M., Zaman, B., & Riaz, M. (2021). Mixed memory control chart based on auxiliary information for simultaneously monitoring of process parameters: An application in glass field. Computers & Industrial Engineering, 156, 107284.",
+    "authors": "Anwar, S. M., Aslam, M., Zaman, B., & Riaz, M.",
+    "year": "2021",
+    "title": "Mixed memory control chart based on auxiliary information for simultaneously monitoring of process parameters: An application in glass field",
+    "journal": "Computers & Industrial Engineering, 156, 107284.",
+    "query_url": "https://api.crossref.org/works?query.title=Mixed+memory+control+chart+based+on+auxiliary+information+for+simultaneously+monitoring+of+process+parameters%3A+An+application+in+glass+field&query.author=Zaman&rows=3&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ccontainer-title",
+    "status": "verified",
+    "doi": "10.1016/j.cie.2021.107284",
+    "matched_title": "Mixed memory control chart based on auxiliary information for simultaneously monitoring of process parameters: An application in glass field",
+    "similarity": 1.0,
+    "source": "Crossref",
+    "record_url": "https://api.crossref.org/works/10.1016%2Fj.cie.2021.107284",
+    "record_year": [
+      2021,
+      6
+    ]
+  },
+  {
+    "citation": "Zaman, B. (2021). Efficient adaptive CUSUM control charts based on generalized likelihood ratio test to monitor process dispersion shift. Quality and Reliability Engineering International, 37, 3192–3220.",
+    "authors": "Zaman, B.",
+    "year": "2021",
+    "title": "Efficient adaptive CUSUM control charts based on generalized likelihood ratio test to monitor process dispersion shift",
+    "journal": "Quality and Reliability Engineering International, 37, 3192–3220.",
+    "query_url": "https://api.crossref.org/works?query.title=Efficient+adaptive+CUSUM+control+charts+based+on+generalized+likelihood+ratio+test+to+monitor+process+dispersion+shift&query.author=Zaman&rows=3&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ccontainer-title",
+    "status": "verified",
+    "doi": "10.1002/qre.2903",
+    "matched_title": "Efficient adaptive CUSUM control charts based on generalized likelihood ratio test to monitor process dispersion shift",
+    "similarity": 1.0,
+    "source": "Crossref",
+    "record_url": "https://api.crossref.org/works/10.1002%2Fqre.2903",
+    "record_year": [
+      2021,
+      5,
+      6
+    ]
+  },
+  {
+    "citation": "Riaz, M., Zaman, B., Mehmood, R., Abbas, N., & Abujiya, M. R. (2021). Advanced multivariate cumulative sum control charts based on principal component method with application. Quality and Reliability Engineering International, 37, 2760–2789.",
+    "authors": "Riaz, M., Zaman, B., Mehmood, R., Abbas, N., & Abujiya, M. R.",
+    "year": "2021",
+    "title": "Advanced multivariate cumulative sum control charts based on principal component method with application",
+    "journal": "Quality and Reliability Engineering International, 37, 2760–2789.",
+    "query_url": "https://api.crossref.org/works?query.title=Advanced+multivariate+cumulative+sum+control+charts+based+on+principal+component+method+with+application&query.author=Zaman&rows=3&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ccontainer-title",
+    "status": "verified",
+    "doi": "10.1002/qre.2889",
+    "matched_title": "Advanced multivariate cumulative sum control charts based on principal component method with application",
+    "similarity": 1.0,
+    "source": "Crossref",
+    "record_url": "https://api.crossref.org/works/10.1002%2Fqre.2889",
+    "record_year": [
+      2021,
+      4,
+      22
+    ]
+  },
+  {
+    "citation": "Rasheed, Z., Zhang, H., Anwar, S. M., & Zaman, B. (2021). Homogeneously mixed memory charts with application in the substrate production process. Mathematical Problems in Engineering, 2021, 2582210.",
+    "authors": "Rasheed, Z., Zhang, H., Anwar, S. M., & Zaman, B.",
+    "year": "2021",
+    "title": "Homogeneously mixed memory charts with application in the substrate production process",
+    "journal": "Mathematical Problems in Engineering, 2021, 2582210.",
+    "query_url": "https://api.crossref.org/works?query.title=Homogeneously+mixed+memory+charts+with+application+in+the+substrate+production+process&query.author=Zaman&rows=3&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ccontainer-title",
+    "status": "verified",
+    "doi": "10.1155/2021/2582210",
+    "matched_title": "Homogeneously Mixed Memory Charts with Application in the Substrate Production Process",
+    "similarity": 1.0,
+    "source": "Crossref",
+    "record_url": "https://api.crossref.org/works/10.1155%2F2021%2F2582210",
+    "record_year": [
+      2021,
+      10,
+      14
+    ]
+  },
+  {
+    "citation": "Rasheed, Z., Zhang, H., Arslan, M., Zaman, B., Anwar, S. M., Abid, M., & Abbasi, S. A. (2021). An efficient robust nonparametric triple EWMA Wilcoxon signed-rank control chart for process location. Mathematical Problems in Engineering, 2021,2570198.",
+    "authors": "Rasheed, Z., Zhang, H., Arslan, M., Zaman, B., Anwar, S. M., Abid, M., & Abbasi, S. A.",
+    "year": "2021",
+    "title": "An efficient robust nonparametric triple EWMA Wilcoxon signed-rank control chart for process location",
+    "journal": "Mathematical Problems in Engineering, 2021,2570198.",
+    "query_url": "https://api.crossref.org/works?query.title=An+efficient+robust+nonparametric+triple+EWMA+Wilcoxon+signed-rank+control+chart+for+process+location&query.author=Zaman&rows=3&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ccontainer-title",
+    "status": "verified",
+    "doi": "10.1155/2021/2570198",
+    "matched_title": "An Efficient Robust Nonparametric Triple EWMA Wilcoxon Signed-Rank Control Chart for Process Location",
+    "similarity": 1.0,
+    "source": "Crossref",
+    "record_url": "https://api.crossref.org/works/10.1155%2F2021%2F2570198",
+    "record_year": [
+      2021,
+      10,
+      26
+    ]
+  },
+  {
+    "citation": "Zaman, B., Lee, M. H., Riaz, M., & Abujiya, M. R. (2020). An improved process monitoring by mixed multivariate memory control charts: An application in wind turbine field. Computers & Industrial Engineering, 142, 106343.",
+    "authors": "Zaman, B., Lee, M. H., Riaz, M., & Abujiya, M. R.",
+    "year": "2020",
+    "title": "An improved process monitoring by mixed multivariate memory control charts: An application in wind turbine field",
+    "journal": "Computers & Industrial Engineering, 142, 106343.",
+    "query_url": "https://api.crossref.org/works?query.title=An+improved+process+monitoring+by+mixed+multivariate+memory+control+charts%3A+An+application+in+wind+turbine+field&query.author=Zaman&rows=3&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ccontainer-title",
+    "status": "verified",
+    "doi": "10.1016/j.cie.2020.106343",
+    "matched_title": "An improved process monitoring by mixed multivariate memory control charts: An application in wind turbine field",
+    "similarity": 1.0,
+    "source": "Crossref",
+    "record_url": "https://api.crossref.org/works/10.1016%2Fj.cie.2020.106343",
+    "record_year": [
+      2020,
+      4
+    ]
+  },
+  {
+    "citation": "Anwar, S. M., Aslam, M., Riaz, M., & Zaman, B. (2020). On mixed memory control charts based on auxiliary information for efficient process monitoring. Quality and Reliability Engineering International, 36, 1949–1968.",
+    "authors": "Anwar, S. M., Aslam, M., Riaz, M., & Zaman, B.",
+    "year": "2020",
+    "title": "On mixed memory control charts based on auxiliary information for efficient process monitoring",
+    "journal": "Quality and Reliability Engineering International, 36, 1949–1968.",
+    "query_url": "https://api.crossref.org/works?query.title=On+mixed+memory+control+charts+based+on+auxiliary+information+for+efficient+process+monitoring&query.author=Zaman&rows=3&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ccontainer-title",
+    "status": "verified",
+    "doi": "10.1002/qre.2667",
+    "matched_title": "On mixed memory control charts based on auxiliary information for efficient process monitoring",
+    "similarity": 1.0,
+    "source": "Crossref",
+    "record_url": "https://api.crossref.org/works/10.1002%2Fqre.2667",
+    "record_year": [
+      2020,
+      6,
+      24
+    ]
+  },
+  {
+    "citation": "Abbas, N., Riaz, M., Ahmad, S., Abid, M., & Zaman, B. (2020). On the efficient monitoring of multivariate processes with unknown parameters. Mathematics, 8(5), 823.",
+    "authors": "Abbas, N., Riaz, M., Ahmad, S., Abid, M., & Zaman, B.",
+    "year": "2020",
+    "title": "On the efficient monitoring of multivariate processes with unknown parameters",
+    "journal": "Mathematics, 8(5), 823.",
+    "query_url": "https://api.crossref.org/works?query.title=On+the+efficient+monitoring+of+multivariate+processes+with+unknown+parameters&query.author=Zaman&rows=3&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ccontainer-title",
+    "status": "verified",
+    "doi": "10.3390/math8050823",
+    "matched_title": "On the Efficient Monitoring of Multivariate Processes with Unknown Parameters",
+    "similarity": 1.0,
+    "source": "Crossref",
+    "record_url": "https://api.crossref.org/works/10.3390%2Fmath8050823",
+    "record_year": [
+      2020,
+      5,
+      19
+    ]
+  },
+  {
+    "citation": "Zaman, B., Lee, M. H., Riaz, M., & Abujiya, M. R. (2019). An adaptive EWMA chart with CUSUM accumulate error-based shift estimator for efficient process dispersion monitoring. Computers & Industrial Engineering, 135, 236–253.",
+    "authors": "Zaman, B., Lee, M. H., Riaz, M., & Abujiya, M. R.",
+    "year": "2019",
+    "title": "An adaptive EWMA chart with CUSUM accumulate error-based shift estimator for efficient process dispersion monitoring",
+    "journal": "Computers & Industrial Engineering, 135, 236–253.",
+    "query_url": "https://api.crossref.org/works?query.title=An+adaptive+EWMA+chart+with+CUSUM+accumulate+error-based+shift+estimator+for+efficient+process+dispersion+monitoring&query.author=Zaman&rows=3&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ccontainer-title",
+    "status": "verified",
+    "doi": "10.1016/j.cie.2019.06.012",
+    "matched_title": "An adaptive EWMA chart with CUSUM accumulate error-based shift estimator for efficient process dispersion monitoring",
+    "similarity": 1.0,
+    "source": "Crossref",
+    "record_url": "https://api.crossref.org/works/10.1016%2Fj.cie.2019.06.012",
+    "record_year": [
+      2019,
+      9
+    ]
+  },
+  {
+    "citation": "Zaman, B., Lee, M. H., Riaz, M., & Abujiya, M. R. (2019). An adaptive approach to EWMA dispersion chart using Huber and Tukey functions. Quality and Reliability Engineering International, 35, 1542–1581.",
+    "authors": "Zaman, B., Lee, M. H., Riaz, M., & Abujiya, M. R.",
+    "year": "2019",
+    "title": "An adaptive approach to EWMA dispersion chart using Huber and Tukey functions",
+    "journal": "Quality and Reliability Engineering International, 35, 1542–1581.",
+    "query_url": "https://api.crossref.org/works?query.title=An+adaptive+approach+to+EWMA+dispersion+chart+using+Huber+and+Tukey+functions&query.author=Zaman&rows=3&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ccontainer-title",
+    "status": "verified",
+    "doi": "10.1002/qre.2460",
+    "matched_title": "An adaptive approach to EWMA dispersion chart using Huber and Tukey functions",
+    "similarity": 1.0,
+    "source": "Crossref",
+    "record_url": "https://api.crossref.org/works/10.1002%2Fqre.2460",
+    "record_year": [
+      2019,
+      2,
+      28
+    ]
+  },
+  {
+    "citation": "Ahmad, S., Wong, K. Y., & Zaman, B. (2019). A comprehensive and integrated stochastic - fuzzy method for sustainability assessment in the Malaysian food manufacturing industry. Sustainability, 11(4), 948.",
+    "authors": "Ahmad, S., Wong, K. Y., & Zaman, B.",
+    "year": "2019",
+    "title": "A comprehensive and integrated stochastic - fuzzy method for sustainability assessment in the Malaysian food manufacturing industry",
+    "journal": "Sustainability, 11(4), 948.",
+    "query_url": "https://api.crossref.org/works?query.title=A+comprehensive+and+integrated+stochastic+-+fuzzy+method+for+sustainability+assessment+in+the+Malaysian+food+manufacturing+industry&query.author=Zaman&rows=3&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ccontainer-title",
+    "status": "verified",
+    "doi": "10.3390/su11040948",
+    "matched_title": "A Comprehensive and Integrated Stochastic-Fuzzy Method for Sustainability Assessment in the Malaysian Food Manufacturing Industry",
+    "similarity": 1.0,
+    "source": "Crossref",
+    "record_url": "https://api.crossref.org/works/10.3390%2Fsu11040948",
+    "record_year": [
+      2019,
+      2,
+      13
+    ]
+  },
+  {
+    "citation": "Zaman, B., Lee, M. H., Riaz, M., & Abujiya, M. R. (2017). An adaptive EWMA scheme-based CUSUM accumulation error for efficient monitoring of process location. Quality and Reliability Engineering International, 33, 2463–2482.",
+    "authors": "Zaman, B., Lee, M. H., Riaz, M., & Abujiya, M. R.",
+    "year": "2017",
+    "title": "An adaptive EWMA scheme-based CUSUM accumulation error for efficient monitoring of process location",
+    "journal": "Quality and Reliability Engineering International, 33, 2463–2482.",
+    "query_url": "https://api.crossref.org/works?query.title=An+adaptive+EWMA+scheme-based+CUSUM+accumulation+error+for+efficient+monitoring+of+process+location&query.author=Zaman&rows=3&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ccontainer-title",
+    "status": "verified",
+    "doi": "10.1002/qre.2203",
+    "matched_title": "An adaptive EWMA scheme‐based CUSUM accumulation error for efficient monitoring of process location",
+    "similarity": 1.0,
+    "source": "Crossref",
+    "record_url": "https://api.crossref.org/works/10.1002%2Fqre.2203",
+    "record_year": [
+      2017,
+      8,
+      31
+    ]
+  },
+  {
+    "citation": "Zaman, B., Riaz, M., & Lee, M. H. (2017). On the performance of control charts for simultaneous monitoring of location and dispersion parameters. Quality and Reliability Engineering International, 33, 37–56.",
+    "authors": "Zaman, B., Riaz, M., & Lee, M. H.",
+    "year": "2017",
+    "title": "On the performance of control charts for simultaneous monitoring of location and dispersion parameters",
+    "journal": "Quality and Reliability Engineering International, 33, 37–56.",
+    "query_url": "https://api.crossref.org/works?query.title=On+the+performance+of+control+charts+for+simultaneous+monitoring+of+location+and+dispersion+parameters&query.author=Zaman&rows=3&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ccontainer-title",
+    "status": "verified",
+    "doi": "10.1002/qre.1989",
+    "matched_title": "On the Performance of Control Charts for Simultaneous Monitoring of Location and Dispersion Parameters",
+    "similarity": 1.0,
+    "source": "Crossref",
+    "record_url": "https://api.crossref.org/works/10.1002%2Fqre.1989",
+    "record_year": [
+      2016,
+      4,
+      13
+    ]
+  },
+  {
+    "citation": "Dsouza, M. A., Balakrishnan, T., Vora, M., Pereira, B. M., Palkar, D., Zaman, B., & Khandekar, R. (2017). The attitude of undergraduate medical students towards research: a case study from two medical colleges in Maharashtra, India. Current Science, 113(6), 1129–1134.",
+    "authors": "Dsouza, M. A., Balakrishnan, T., Vora, M., Pereira, B. M., Palkar, D., Zaman, B., & Khandekar, R.",
+    "year": "2017",
+    "title": "The attitude of undergraduate medical students towards research: a case study from two medical colleges in Maharashtra, India",
+    "journal": "Current Science, 113(6), 1129–1134.",
+    "query_url": "https://api.crossref.org/works?query.title=The+attitude+of+undergraduate+medical+students+towards+research%3A+a+case+study+from+two+medical+colleges+in+Maharashtra%2C+India&query.author=Zaman&rows=3&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ccontainer-title",
+    "status": "verified",
+    "doi": "10.18520/cs/v113/i06/1129-1134",
+    "matched_title": "The Attitude of Undergraduate Medical Students towards Research:A Case Study from Two Medical Colleges in Maharashtra, India",
+    "similarity": 1.0,
+    "source": "Crossref",
+    "record_url": "https://api.crossref.org/works/10.18520%2Fcs%2Fv113%2Fi06%2F1129-1134",
+    "record_year": [
+      2017,
+      9,
+      25
+    ]
+  },
+  {
+    "citation": "Zaman, B., Abbas, N., & Riaz, M. (2016). Mixed CUSUM-EWMA chart for monitoring process dispersion. The International Journal of Advanced Manufacturing Technology, 86, 3025–3039.",
+    "authors": "Zaman, B., Abbas, N., & Riaz, M.",
+    "year": "2016",
+    "title": "Mixed CUSUM-EWMA chart for monitoring process dispersion",
+    "journal": "The International Journal of Advanced Manufacturing Technology, 86, 3025–3039.",
+    "query_url": "https://api.crossref.org/works?query.title=Mixed+CUSUM-EWMA+chart+for+monitoring+process+dispersion&query.author=Zaman&rows=3&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ccontainer-title",
+    "status": "verified",
+    "doi": "10.1007/s00170-016-8411-0",
+    "matched_title": "Mixed CUSUM-EWMA chart for monitoring process dispersion",
+    "similarity": 1.0,
+    "source": "Crossref",
+    "record_url": "https://api.crossref.org/works/10.1007%2Fs00170-016-8411-0",
+    "record_year": [
+      2016,
+      2,
+      10
+    ]
+  },
+  {
+    "citation": "Zaman, B., Riaz, M., & Abbasi, S. A. (2016). On the efficiency of runs rules schemes for process monitoring. Quality and Reliability Engineering International, 32, 663–671.",
+    "authors": "Zaman, B., Riaz, M., & Abbasi, S. A.",
+    "year": "2016",
+    "title": "On the efficiency of runs rules schemes for process monitoring",
+    "journal": "Quality and Reliability Engineering International, 32, 663–671.",
+    "query_url": "https://api.crossref.org/works?query.title=On+the+efficiency+of+runs+rules+schemes+for+process+monitoring&query.author=Zaman&rows=3&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ccontainer-title",
+    "status": "verified",
+    "doi": "10.1002/qre.1780",
+    "matched_title": "On the Efficiency of Runs Rules Schemes for Process Monitoring",
+    "similarity": 1.0,
+    "source": "Crossref",
+    "record_url": "https://api.crossref.org/works/10.1002%2Fqre.1780",
+    "record_year": [
+      2015,
+      4,
+      1
+    ]
+  },
+  {
+    "citation": "Al-Hilali, S. M., Al-Kahtani, E., Zaman, B., Khandekar, R., Al-Shahri, A., & Edward, D. P. (2016). Attitudes of Saudi Arabian undergraduate medical students towards health research. Sultan Qaboos University Medical Journal, 16(1), e68–e73.",
+    "authors": "Al-Hilali, S. M., Al-Kahtani, E., Zaman, B., Khandekar, R., Al-Shahri, A., & Edward, D. P.",
+    "year": "2016",
+    "title": "Attitudes of Saudi Arabian undergraduate medical students towards health research",
+    "journal": "Sultan Qaboos University Medical Journal, 16(1), e68–e73.",
+    "query_url": "https://api.crossref.org/works?query.title=Attitudes+of+Saudi+Arabian+undergraduate+medical+students+towards+health+research&query.author=Zaman&rows=3&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ccontainer-title",
+    "status": "verified",
+    "doi": "10.18295/squmj.2016.16.01.012",
+    "matched_title": "Attitudes of Saudi Arabian Undergraduate Medical Students towards Health Research",
+    "similarity": 1.0,
+    "source": "Crossref",
+    "record_url": "https://api.crossref.org/works/10.18295%2Fsqumj.2016.16.01.012",
+    "record_year": [
+      2016,
+      2,
+      2
+    ]
+  },
+  {
+    "citation": "Al-Jumaian, N., Malik, R., Khandekar, R., Al-Humaidan, A., Al-Madany, R., Al-Qahtani, R., Altowairqi, A., Al-Theeb, A., Zaman, B., Al-Djasim, L., Craven, E. R., & Edward, D. P. (2016). Bottle characteristics of topical international glaucoma medications versus local brands in Saudi Arabia. Middle East African Journal of Ophthalmology, 23(4), 296–301.",
+    "authors": "Al-Jumaian, N., Malik, R., Khandekar, R., Al-Humaidan, A., Al-Madany, R., Al-Qahtani, R., Altowairqi, A., Al-Theeb, A., Zaman, B., Al-Djasim, L., Craven, E. R., & Edward, D. P.",
+    "year": "2016",
+    "title": "Bottle characteristics of topical international glaucoma medications versus local brands in Saudi Arabia",
+    "journal": "Middle East African Journal of Ophthalmology, 23(4), 296–301.",
+    "query_url": "https://api.crossref.org/works?query.title=Bottle+characteristics+of+topical+international+glaucoma+medications+versus+local+brands+in+Saudi+Arabia&query.author=Zaman&rows=3&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ccontainer-title",
+    "status": "verified",
+    "doi": "10.4103/0974-9233.194077",
+    "matched_title": "Bottle Characteristics of Topical International Glaucoma Medications versus Local Brands in Saudi Arabia",
+    "similarity": 1.0,
+    "source": "Crossref",
+    "record_url": "https://api.crossref.org/works/10.4103%2F0974-9233.194077",
+    "record_year": [
+      2016,
+      10
+    ]
+  },
+  {
+    "citation": "Zaman, B., Riaz, M., & Ahmad, S. (2015). On artificial neural networking-based process monitoring under bootstrapping using runs rules schemes. The International Journal of Advanced Manufacturing Technology, 76, 311–327.",
+    "authors": "Zaman, B., Riaz, M., & Ahmad, S.",
+    "year": "2015",
+    "title": "On artificial neural networking-based process monitoring under bootstrapping using runs rules schemes",
+    "journal": "The International Journal of Advanced Manufacturing Technology, 76, 311–327.",
+    "query_url": "https://api.crossref.org/works?query.title=On+artificial+neural+networking-based+process+monitoring+under+bootstrapping+using+runs+rules+schemes&query.author=Zaman&rows=3&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ccontainer-title",
+    "status": "verified",
+    "doi": "10.1007/s00170-014-6236-2",
+    "matched_title": "On artificial neural networking-based process monitoring under bootstrapping using runs rules schemes",
+    "similarity": 1.0,
+    "source": "Crossref",
+    "record_url": "https://api.crossref.org/works/10.1007%2Fs00170-014-6236-2",
+    "record_year": [
+      2014,
+      8,
+      30
+    ]
+  },
+  {
+    "citation": "Zaman, B., Riaz, M., Abbas, N., & Does, R. J. M. M. (2015). Mixed cumulative sum-exponentially weighted moving average control charts: An efficient way of monitoring process location. Quality and Reliability Engineering International, 31, 1407–1421.",
+    "authors": "Zaman, B., Riaz, M., Abbas, N., & Does, R. J. M. M.",
+    "year": "2015",
+    "title": "Mixed cumulative sum-exponentially weighted moving average control charts: An efficient way of monitoring process location",
+    "journal": "Quality and Reliability Engineering International, 31, 1407–1421.",
+    "query_url": "https://api.crossref.org/works?query.title=Mixed+cumulative+sum-exponentially+weighted+moving+average+control+charts%3A+An+efficient+way+of+monitoring+process+location&query.author=Zaman&rows=3&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ccontainer-title",
+    "status": "verified",
+    "doi": "10.1002/qre.1678",
+    "matched_title": "Mixed Cumulative Sum–Exponentially Weighted Moving Average Control Charts: An Efficient Way of Monitoring Process Location",
+    "similarity": 1.0,
+    "source": "Crossref",
+    "record_url": "https://api.crossref.org/works/10.1002%2Fqre.1678",
+    "record_year": [
+      2014,
+      6,
+      30
+    ]
+  },
+  {
+    "citation": "Riaz, M., Abbasi, S. A., Ahmad, S., & Zaman, B. (2014). On efficient phase II process monitoring charts. The International Journal of Advanced Manufacturing Technology, 70, 2263–2274.",
+    "authors": "Riaz, M., Abbasi, S. A., Ahmad, S., & Zaman, B.",
+    "year": "2014",
+    "title": "On efficient phase II process monitoring charts",
+    "journal": "The International Journal of Advanced Manufacturing Technology, 70, 2263–2274.",
+    "query_url": "https://api.crossref.org/works?query.title=On+efficient+phase+II+process+monitoring+charts&query.author=Zaman&rows=3&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ccontainer-title",
+    "status": "verified",
+    "doi": "10.1007/s00170-013-5418-7",
+    "matched_title": "On efficient phase II process monitoring charts",
+    "similarity": 1.0,
+    "source": "Crossref",
+    "record_url": "https://api.crossref.org/works/10.1007%2Fs00170-013-5418-7",
+    "record_year": [
+      2013,
+      11,
+      17
+    ]
+  },
+  {
+    "citation": "Khandekar, R. B., Al-Towerki, A. A., Al-Katan, H., Al-Mesfer, S. S., Abboud, E. B., Al-Hussain, H. M., Sheikh, O. H., Chaudhry, I. A., Ahmed, W. A., Zaman, B. M., Asghar, N., & Edward, D. P. (2014). Review of the Tumor Registry at a tertiary eye hospital in central Saudi Arabia. Saudi Medical Journal, 35(4), 377–384.",
+    "authors": "Khandekar, R. B., Al-Towerki, A. A., Al-Katan, H., Al-Mesfer, S. S., Abboud, E. B., Al-Hussain, H. M., Sheikh, O. H., Chaudhry, I. A., Ahmed, W. A., Zaman, B. M., Asghar, N., & Edward, D. P.",
+    "year": "2014",
+    "title": "Review of the Tumor Registry at a tertiary eye hospital in central Saudi Arabia",
+    "journal": "Saudi Medical Journal, 35(4), 377–384.",
+    "query_url": "https://api.crossref.org/works?query.title=Review+of+the+Tumor+Registry+at+a+tertiary+eye+hospital+in+central+Saudi+Arabia&query.author=Zaman&rows=3&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ccontainer-title",
+    "status": "unverified"
+  },
+  {
+    "citation": "Khandekar, R. B., Al-Towerki, A. A., Al-Katan, H., Al-Mesfer, S. S., Abboud, E. B., Al-Hussain, H. M., Sheikh, O. H., Chaudhry, I. A., Ahmed, W. A., Zaman, B. M., Asghar, N., & Edward, D. P. (2014). Ocular malignant tumors. Saudi Medical Journal.",
+    "authors": "Khandekar, R. B., Al-Towerki, A. A., Al-Katan, H., Al-Mesfer, S. S., Abboud, E. B., Al-Hussain, H. M., Sheikh, O. H., Chaudhry, I. A., Ahmed, W. A., Zaman, B. M., Asghar, N., & Edward, D. P.",
+    "year": "2014",
+    "title": "Ocular malignant tumors",
+    "journal": "Saudi Medical Journal.",
+    "query_url": "https://api.crossref.org/works?query.title=Ocular+malignant+tumors&query.author=Zaman&rows=3&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ccontainer-title",
+    "status": "unverified"
+  },
+  {
+    "citation": "Zaman, B., Khandekar, R., Al Shahwan, S., Song, J., Al Jadaan, I., Al Jiasim, L., Owaydha, O., Asghar, N., Hijazi, A., & Edward, D. P. (2014). Development of a web-based glaucoma registry at King Khaled Eye Specialist Hospital, Saudi Arabia: A cost-effective methodology. Middle East African Journal of Ophthalmology, 21(2), 182–185.",
+    "authors": "Zaman, B., Khandekar, R., Al Shahwan, S., Song, J., Al Jadaan, I., Al Jiasim, L., Owaydha, O., Asghar, N., Hijazi, A., & Edward, D. P.",
+    "year": "2014",
+    "title": "Development of a web-based glaucoma registry at King Khaled Eye Specialist Hospital, Saudi Arabia: A cost-effective methodology",
+    "journal": "Middle East African Journal of Ophthalmology, 21(2), 182–185.",
+    "query_url": "https://api.crossref.org/works?query.title=Development+of+a+web-based+glaucoma+registry+at+King+Khaled+Eye+Specialist+Hospital%2C+Saudi+Arabia%3A+A+cost-effective+methodology&query.author=Zaman&rows=3&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ccontainer-title",
+    "status": "verified",
+    "doi": "10.4103/0974-9233.129773",
+    "matched_title": "Development of a web-based glaucoma registry at King Khaled Eye Specialist Hospital, Saudi Arabia: A cost-effective methodology",
+    "similarity": 1.0,
+    "source": "Crossref",
+    "record_url": "https://api.crossref.org/works/10.4103%2F0974-9233.129773",
+    "record_year": [
+      2014
+    ]
+  },
+  {
+    "citation": "Pirouzian, A., Mesfer, S., Al Katan, H., Maktabi, A. M. Y., Karoui, M., Asghar, N., Zaman, B., Ahmed, W., Khandekar, R., & Edward, D. P. (2014). Retinoblastoma (Rb) in Saudi Arabia—Fifteen year retrospective comparative review of a registry: 1983-1997 vs. 1998-2007 at King Khaled Eye Specialist Hospital. Investigative Ophthalmology & Visual Science, 55(13), 3081.",
+    "authors": "Pirouzian, A., Mesfer, S., Al Katan, H., Maktabi, A. M. Y., Karoui, M., Asghar, N., Zaman, B., Ahmed, W., Khandekar, R., & Edward, D. P.",
+    "year": "2014",
+    "title": "Retinoblastoma (Rb) in Saudi Arabia—Fifteen year retrospective comparative review of a registry: 1983-1997 vs. 1998-2007 at King Khaled Eye Specialist Hospital",
+    "journal": "Investigative Ophthalmology & Visual Science, 55(13), 3081.",
+    "query_url": "https://api.crossref.org/works?query.title=Retinoblastoma+%28Rb%29+in+Saudi+Arabia%E2%80%94Fifteen+year+retrospective+comparative+review+of+a+registry%3A+1983-1997+vs.+1998-2007+at+King+Khaled+Eye+Specialist+Hospital&query.author=Zaman&rows=3&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ccontainer-title",
+    "status": "unverified"
+  }
+]

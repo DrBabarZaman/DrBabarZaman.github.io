@@ -1,0 +1,58 @@
+{
+  "reporting_year": 2024,
+  "verified_entries": 11,
+  "unverified_entries": 44,
+  "counts": {
+    "Q1": 10,
+    "Q2": 1
+  },
+  "verified_jif_subtotal": 60.7,
+  "complete_total": null,
+  "journals": [
+    {
+      "journal": "Expert Systems with Applications",
+      "jif": 7.5,
+      "quartile": "Q1",
+      "category": "Category not specified in the institutional source",
+      "source": "https://www.iit.comillas.edu/publicacion/info_revista/es/60/expert-systems-with-applications",
+      "source_name": "Comillas IIT journal record",
+      "metric_year": 2024,
+      "checked": "2026-10-22",
+      "system": "JCR Journal Impact Factor"
+    },
+    {
+      "journal": "Computers & Industrial Engineering",
+      "jif": 6.5,
+      "quartile": "Q1",
+      "category": "Computer Science, Interdisciplinary Applications; Engineering, Industrial",
+      "source": "https://www.sciencedirect.com/science/article/pii/S0360835225006990",
+      "source_name": "Journal anniversary editorial",
+      "metric_year": 2024,
+      "checked": "2026-10-22",
+      "system": "JCR Journal Impact Factor"
+    },
+    {
+      "journal": "Mathematics",
+      "jif": 2.2,
+      "quartile": "Q1",
+      "category": "Mathematics",
+      "source": "https://www.mdpi.com/journal/Mathematics/history",
+      "source_name": "MDPI journal history",
+      "rank": "30/492; Q1 derived using the Clarivate quartile rule",
+      "metric_year": 2024,
+      "checked": "2026-10-22",
+      "system": "JCR Journal Impact Factor"
+    },
+    {
+      "journal": "Sustainability",
+      "jif": 3.3,
+      "quartile": "Q2",
+      "category": "Environmental Studies",
+      "source": "https://www.mdpi.com/journal/sustainability?authAll=true%2F1000",
+      "source_name": "MDPI journal information",
+      "metric_year": 2024,
+      "checked": "2026-10-22",
+      "system": "JCR Journal Impact Factor"
+    }
+  ]
+}

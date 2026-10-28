@@ -1,0 +1,541 @@
+{
+  "checked": "2026-10-26",
+  "source_records": 55,
+  "unique_published_record_entries": 54,
+  "journal_items": 53,
+  "research_article_entries": 51,
+  "reviews": 1,
+  "corrections": 1,
+  "abstracts_provisional": 1,
+  "manuscripts": 7,
+  "duplicate_merge": [
+    51,
+    52
+  ],
+  "citation_updates": [
+    {
+      "source_index": 0,
+      "doi": "10.1016/j.eswa.2026.133907",
+      "title": "Semi-parametric Bayesian physics-informed neural network-based digital twin for dynamical systems",
+      "volume": "333",
+      "issue": null,
+      "pages": "133907",
+      "article_number": "133907",
+      "group_year": "2026"
+    },
+    {
+      "source_index": 1,
+      "doi": "10.1007/s00170-026-18607-3",
+      "title": "A multivariate adaptive cumulative sum control chart based on machine learning approach, support vector regression with applications",
+      "volume": "145",
+      "issue": "7-8",
+      "pages": "5413-5441",
+      "article_number": null,
+      "group_year": "2026"
+    },
+    {
+      "source_index": 2,
+      "doi": "10.1007/s00170-026-18335-8",
+      "title": "Data-driven control charts for monitoring Gamma-distributed manufacturing processes using machine learning",
+      "volume": "144",
+      "issue": "12",
+      "pages": "8273-8302",
+      "article_number": null,
+      "group_year": "2026"
+    },
+    {
+      "source_index": 3,
+      "doi": "10.1080/16843703.2025.2512298",
+      "title": "Performance of the mean control charts with generalized sensitizing rules for various probability distribution",
+      "volume": "23",
+      "issue": "3",
+      "pages": "423-457",
+      "article_number": null,
+      "group_year": "2026"
+    },
+    {
+      "source_index": 4,
+      "doi": "10.1016/j.cie.2025.111750",
+      "title": "Enhancing statistical process control with machine learning: The Iso-CUSUM control chart for multivariate process",
+      "volume": "212",
+      "issue": null,
+      "pages": "111750",
+      "article_number": "111750",
+      "group_year": "2026"
+    },
+    {
+      "source_index": 5,
+      "doi": "10.1080/00949655.2025.2584733",
+      "title": "A simulation-based Bayesian multivariate adaptive EWMA framework with hybrid score functions for monitoring water quality",
+      "volume": "96",
+      "issue": "5",
+      "pages": "1225-1269",
+      "article_number": null,
+      "group_year": "2026"
+    },
+    {
+      "source_index": 6,
+      "doi": "10.1016/j.cie.2025.110894",
+      "title": "Memory control chart based on machine learning technique for efficient process monitoring",
+      "volume": "201",
+      "issue": null,
+      "pages": "110894",
+      "article_number": "110894",
+      "group_year": "2025"
+    },
+    {
+      "source_index": 7,
+      "doi": "10.1016/j.measurement.2025.117847",
+      "title": "Optimizing process monitoring: Adaptive CUSUM control chart with hybrid score functions",
+      "volume": "254",
+      "issue": null,
+      "pages": "117847",
+      "article_number": "117847",
+      "group_year": "2025"
+    },
+    {
+      "source_index": 8,
+      "doi": "10.1016/j.engappai.2025.111227",
+      "title": "Enhanced process monitoring using machine learning-based control charts for poisson-distributed data",
+      "volume": "157",
+      "issue": null,
+      "pages": "111227",
+      "article_number": "111227",
+      "group_year": "2025"
+    },
+    {
+      "source_index": 9,
+      "doi": "10.1002/qre.3760",
+      "title": "Adaptive CUSUM Control Chart Utilizing Supervised Learning for Monitoring the Process Location Parameter: A Case Study Application",
+      "volume": "41",
+      "issue": "5",
+      "pages": "2032-2050",
+      "article_number": null,
+      "group_year": "2025"
+    },
+    {
+      "source_index": 10,
+      "doi": "10.1080/16843703.2024.2313247",
+      "title": "Generalized multivariate EWMA control chart supplemented with bivariate ranked set techniques",
+      "volume": "22",
+      "issue": "2",
+      "pages": "228-256",
+      "article_number": null,
+      "group_year": "2025"
+    },
+    {
+      "source_index": 11,
+      "doi": "10.1080/01496395.2025.2563663",
+      "title": "A perspective on hydrate-based CO 2 captures for industrial gas mixtures",
+      "volume": "60",
+      "issue": "17",
+      "pages": "2528-2565",
+      "article_number": null,
+      "group_year": "2025"
+    },
+    {
+      "source_index": 12,
+      "doi": "10.1002/cpe.70349",
+      "title": "Development of Efficient Control Charts for Monitoring Mean of Paired Differences of Quality Characteristics",
+      "volume": "37",
+      "issue": "25-26",
+      "pages": null,
+      "article_number": "e70349",
+      "group_year": "2025"
+    },
+    {
+      "source_index": 13,
+      "doi": "10.15672/hujms.1541132",
+      "title": "Efficient techniques for designing and evaluating multivariate Hotelling control chart with generalized sensitizing rules",
+      "volume": "54",
+      "issue": "4",
+      "pages": "1588-1621",
+      "article_number": null,
+      "group_year": "2025"
+    },
+    {
+      "source_index": 14,
+      "doi": "10.1080/03610926.2024.2428996",
+      "title": "Multivariate generalized variance control chart under sensitizing rules with an application in petroleum process",
+      "volume": "54",
+      "issue": "15",
+      "pages": "4830-4858",
+      "article_number": null,
+      "group_year": "2025"
+    },
+    {
+      "source_index": 15,
+      "doi": "10.58692/jotcsb.1545110",
+      "title": "Examining the Prediction of Vapor-Liquid Equilibria through Comparative Analysis: Deep Learning versus Classical Cubic and Associating Fluid Theory Approaches",
+      "volume": "8",
+      "issue": "1",
+      "pages": "11-28",
+      "article_number": null,
+      "group_year": "2025"
+    },
+    {
+      "source_index": 16,
+      "doi": "10.1002/qre.3420",
+      "title": "Corrections to an adaptive EWMA control chart based on Hampel function to monitor the process location parameter by Zaman et al. (2023)",
+      "volume": "40",
+      "issue": "1",
+      "pages": "752-757",
+      "article_number": null,
+      "group_year": "2024"
+    },
+    {
+      "source_index": 17,
+      "doi": "10.1002/qre.3463",
+      "title": "A new adaptive CUSUM control chart based on Hampel function to monitor location parameter",
+      "volume": "40",
+      "issue": "3",
+      "pages": "1246-1278",
+      "article_number": null,
+      "group_year": "2024"
+    },
+    {
+      "source_index": 18,
+      "doi": "10.1016/j.cie.2023.109543",
+      "title": "Integration of hybrid score functions to design new adaptive EWMA control chart to monitor the process mean shift",
+      "volume": "183",
+      "issue": null,
+      "pages": "109543",
+      "article_number": "109543",
+      "group_year": "2023"
+    },
+    {
+      "source_index": 19,
+      "doi": "10.1016/j.cie.2023.109379",
+      "title": "A new approach for designing the Shewhart-type control charts with generalized sensitizing rules",
+      "volume": "182",
+      "issue": null,
+      "pages": "109379",
+      "article_number": "109379",
+      "group_year": "2023"
+    },
+    {
+      "source_index": 20,
+      "doi": "10.1002/qre.3291",
+      "title": "An adaptive EWMA control chart based on Hampel function to monitor the process location parameter",
+      "volume": "39",
+      "issue": "4",
+      "pages": "1277-1298",
+      "article_number": null,
+      "group_year": "2023"
+    },
+    {
+      "source_index": 21,
+      "doi": "10.1007/s13369-022-06803-8",
+      "title": "Adaptive Memory Control Charts Constructed on Generalized Likelihood Ratio Test to Monitor Process Location",
+      "volume": "47",
+      "issue": "11",
+      "pages": "15049-15081",
+      "article_number": null,
+      "group_year": "2022"
+    },
+    {
+      "source_index": 22,
+      "doi": "10.1007/s13369-021-05878-z",
+      "title": "Adaptive CUSUM Location Control Charts Based on Score Functions: An Application in Semiconductor Wafer Field",
+      "volume": "47",
+      "issue": "3",
+      "pages": "3725-3749",
+      "article_number": null,
+      "group_year": "2022"
+    },
+    {
+      "source_index": 23,
+      "doi": "10.1002/qre.3075",
+      "title": "Adaptive CUSUM control charts for efficient monitoring of process dispersion",
+      "volume": "38",
+      "issue": "5",
+      "pages": "2273-2302",
+      "article_number": null,
+      "group_year": "2022"
+    },
+    {
+      "source_index": 24,
+      "doi": "10.1002/qre.3032",
+      "title": "A homogeneously weighted moving average control chart for monitoring time between events",
+      "volume": "38",
+      "issue": "2",
+      "pages": "1013-1044",
+      "article_number": null,
+      "group_year": "2022"
+    },
+    {
+      "source_index": 25,
+      "doi": "10.1002/qre.2966",
+      "title": "An enhanced double homogeneously weighted moving average control chart to monitor process location with application in automobile field",
+      "volume": "38",
+      "issue": "1",
+      "pages": "174-194",
+      "article_number": null,
+      "group_year": "2022"
+    },
+    {
+      "source_index": 26,
+      "doi": "10.1002/qre.3021",
+      "title": "A robust hybrid exponentially weighted moving average chart for monitoring time between events",
+      "volume": "38",
+      "issue": "2",
+      "pages": "895-923",
+      "article_number": null,
+      "group_year": "2022"
+    },
+    {
+      "source_index": 27,
+      "doi": "10.3390/math10122025",
+      "title": "An Adaptive EWMA Control Chart Based on Principal Component Method to Monitor Process Mean Vector",
+      "volume": "10",
+      "issue": "12",
+      "pages": null,
+      "article_number": "2025",
+      "group_year": "2022"
+    },
+    {
+      "source_index": 28,
+      "doi": "10.1002/cpe.7065",
+      "title": "Mean control chart based on ranked set schemes for unknown skewed probability distribution and parameters",
+      "volume": "34",
+      "issue": "21",
+      "pages": null,
+      "article_number": "e7065",
+      "group_year": "2022"
+    },
+    {
+      "source_index": 29,
+      "doi": "10.1080/03610918.2019.1643885",
+      "title": "Hotelling T2 control chart based on bivariate ranked set schemes",
+      "volume": "51",
+      "issue": "1",
+      "pages": "1-28",
+      "article_number": null,
+      "group_year": "2022"
+    },
+    {
+      "source_index": 30,
+      "doi": "10.1016/j.cie.2021.107284",
+      "title": "Mixed memory control chart based on auxiliary information for simultaneously monitoring of process parameters: An application in glass field",
+      "volume": "156",
+      "issue": null,
+      "pages": "107284",
+      "article_number": "107284",
+      "group_year": "2021"
+    },
+    {
+      "source_index": 31,
+      "doi": "10.1002/qre.2903",
+      "title": "Efficient adaptive CUSUM control charts based on generalized likelihood ratio test to monitor process dispersion shift",
+      "volume": "37",
+      "issue": "8",
+      "pages": "3192-3220",
+      "article_number": null,
+      "group_year": "2021"
+    },
+    {
+      "source_index": 32,
+      "doi": "10.1002/qre.2889",
+      "title": "Advanced multivariate cumulative sum control charts based on principal component method with application",
+      "volume": "37",
+      "issue": "6",
+      "pages": "2760-2789",
+      "article_number": null,
+      "group_year": "2021"
+    },
+    {
+      "source_index": 33,
+      "doi": "10.1155/2021/2582210",
+      "title": "Homogeneously Mixed Memory Charts with Application in the Substrate Production Process",
+      "volume": "2021",
+      "issue": null,
+      "pages": "1-15",
+      "article_number": "2582210",
+      "group_year": "2021"
+    },
+    {
+      "source_index": 34,
+      "doi": "10.1155/2021/2570198",
+      "title": "An Efficient Robust Nonparametric Triple EWMA Wilcoxon Signed-Rank Control Chart for Process Location",
+      "volume": "2021",
+      "issue": null,
+      "pages": "1-28",
+      "article_number": "2570198",
+      "group_year": "2021"
+    },
+    {
+      "source_index": 35,
+      "doi": "10.1016/j.cie.2020.106343",
+      "title": "An improved process monitoring by mixed multivariate memory control charts: An application in wind turbine field",
+      "volume": "142",
+      "issue": null,
+      "pages": "106343",
+      "article_number": "106343",
+      "group_year": "2020"
+    },
+    {
+      "source_index": 36,
+      "doi": "10.1002/qre.2667",
+      "title": "On mixed memory control charts based on auxiliary information for efficient process monitoring",
+      "volume": "36",
+      "issue": "6",
+      "pages": "1949-1968",
+      "article_number": null,
+      "group_year": "2020"
+    },
+    {
+      "source_index": 37,
+      "doi": "10.3390/math8050823",
+      "title": "On the Efficient Monitoring of Multivariate Processes with Unknown Parameters",
+      "volume": "8",
+      "issue": "5",
+      "pages": null,
+      "article_number": "823",
+      "group_year": "2020"
+    },
+    {
+      "source_index": 38,
+      "doi": "10.1016/j.cie.2019.06.012",
+      "title": "An adaptive EWMA chart with CUSUM accumulate error-based shift estimator for efficient process dispersion monitoring",
+      "volume": "135",
+      "issue": null,
+      "pages": "236-253",
+      "article_number": null,
+      "group_year": "2019"
+    },
+    {
+      "source_index": 39,
+      "doi": "10.1002/qre.2460",
+      "title": "An adaptive approach to EWMA dispersion chart using Huber and Tukey functions",
+      "volume": "35",
+      "issue": "6",
+      "pages": "1542-1581",
+      "article_number": null,
+      "group_year": "2019"
+    },
+    {
+      "source_index": 40,
+      "doi": "10.3390/su11040948",
+      "title": "A Comprehensive and Integrated Stochastic-Fuzzy Method for Sustainability Assessment in the Malaysian Food Manufacturing Industry",
+      "volume": "11",
+      "issue": "4",
+      "pages": null,
+      "article_number": "948",
+      "group_year": "2019"
+    },
+    {
+      "source_index": 41,
+      "doi": "10.1002/qre.2203",
+      "title": "An adaptive EWMA scheme\u2010based CUSUM accumulation error for efficient monitoring of process location",
+      "volume": "33",
+      "issue": "8",
+      "pages": "2463-2482",
+      "article_number": null,
+      "group_year": "2017"
+    },
+    {
+      "source_index": 42,
+      "doi": "10.1002/qre.1989",
+      "title": "On the Performance of Control Charts for Simultaneous Monitoring of Location and Dispersion Parameters",
+      "volume": "33",
+      "issue": "1",
+      "pages": "37-56",
+      "article_number": null,
+      "group_year": "2017"
+    },
+    {
+      "source_index": 43,
+      "doi": "10.18520/cs/v113/i06/1129-1134",
+      "title": "The Attitude of Undergraduate Medical Students towards Research:A Case Study from Two Medical Colleges in Maharashtra, India",
+      "volume": "113",
+      "issue": "06",
+      "pages": "1129\u20131134",
+      "article_number": null,
+      "group_year": "2017"
+    },
+    {
+      "source_index": 44,
+      "doi": "10.1007/s00170-016-8411-0",
+      "title": "Mixed CUSUM-EWMA chart for monitoring process dispersion",
+      "volume": "86",
+      "issue": "9-12",
+      "pages": "3025-3039",
+      "article_number": null,
+      "group_year": "2016"
+    },
+    {
+      "source_index": 45,
+      "doi": "10.1002/qre.1780",
+      "title": "On the Efficiency of Runs Rules Schemes for Process Monitoring",
+      "volume": "32",
+      "issue": "2",
+      "pages": "663-671",
+      "article_number": null,
+      "group_year": "2016"
+    },
+    {
+      "source_index": 46,
+      "doi": "10.18295/squmj.2016.16.01.012",
+      "title": "Attitudes of Saudi Arabian Undergraduate Medical Students towards Health Research",
+      "volume": "16",
+      "issue": "1",
+      "pages": "e68\u2013e73",
+      "article_number": null,
+      "group_year": "2016"
+    },
+    {
+      "source_index": 47,
+      "doi": "10.4103/0974-9233.194077",
+      "title": "Bottle Characteristics of Topical International Glaucoma Medications versus Local Brands in Saudi Arabia",
+      "volume": "23",
+      "issue": "4",
+      "pages": "296-301",
+      "article_number": null,
+      "group_year": "2016"
+    },
+    {
+      "source_index": 48,
+      "doi": "10.1007/s00170-014-6236-2",
+      "title": "On artificial neural networking-based process monitoring under bootstrapping using runs rules schemes",
+      "volume": "76",
+      "issue": "1-4",
+      "pages": "311-327",
+      "article_number": null,
+      "group_year": "2015"
+    },
+    {
+      "source_index": 49,
+      "doi": "10.1002/qre.1678",
+      "title": "Mixed Cumulative Sum\u2013Exponentially Weighted Moving Average Control Charts: An Efficient Way of Monitoring Process Location",
+      "volume": "31",
+      "issue": "8",
+      "pages": "1407-1421",
+      "article_number": null,
+      "group_year": "2015"
+    },
+    {
+      "source_index": 50,
+      "doi": "10.1007/s00170-013-5418-7",
+      "title": "On efficient phase II process monitoring charts",
+      "volume": "70",
+      "issue": "9-12",
+      "pages": "2263-2274",
+      "article_number": null,
+      "group_year": "2014"
+    },
+    {
+      "source_index": 53,
+      "doi": "10.4103/0974-9233.129773",
+      "title": "Development of a web-based glaucoma registry at King Khaled Eye Specialist Hospital, Saudi Arabia: A cost-effective methodology",
+      "volume": "21",
+      "issue": "2",
+      "pages": "182\u2013185",
+      "article_number": null,
+      "group_year": "2014"
+    }
+  ],
+  "unresolved": [
+    "ARVO/IOVS abstract classification and publisher link",
+    "Original author identities retained; full author-by-author verification not completed"
+  ]
+}

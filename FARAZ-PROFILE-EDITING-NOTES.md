@@ -1,0 +1,2 @@
+Source: /Users/babarzaman/Downloads/Faraz_Mukhtiar_Lab_Profile.docx
+Name and thesis title replaced with supplied exact wording. MS period 2023–2025; 2025 shown as reported year, not asserted graduation year. Current lecturer position supplied as 2025–Present. Completion status and supervision role remain unconfirmed and hidden. BS details retained in private structured data. No thesis URL supplied. SSRN entry is labelled preprint. Publication links added to student card only; main publication totals unchanged.

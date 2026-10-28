@@ -1,0 +1,97 @@
+{
+  "process-control": {
+    "published_count": 44,
+    "publication_titles": [
+      "A multivariate adaptive cumulative sum control chart based on machine learning approach, support vector regression with applications",
+      "Data-driven control charts for monitoring Gamma-distributed manufacturing processes using machine learning",
+      "Performance of the mean control charts with generalized sensitizing rules for various probability distribution",
+      "Enhancing statistical process control with machine learning: The Iso - CUSUM control chart for multivariate process",
+      "A simulation-based Bayesian multivariate adaptive EWMA framework with hybrid score functions for monitoring water quality",
+      "Memory control chart based on machine learning technique for efficient process monitoring",
+      "Optimizing process monitoring: Adaptive CUSUM control chart with hybrid score functions",
+      "Enhanced process monitoring using machine learning-based control charts for poisson-distributed data",
+      "Adaptive CUSUM control chart utilizing supervised learning for monitoring the process location parameter: A case study application",
+      "Generalized multivariate EWMA control chart supplemented with bivariate ranked set techniques",
+      "Development of efficient control charts for monitoring mean of paired differences of quality characteristics",
+      "Efficient techniques for designing and evaluating multivariate Hotelling control chart with generalized sensitizing rules",
+      "Multivariate generalized variance control chart under sensitizing rules with an application in petroleum process",
+      "Corrections to \"An adaptive EWMA control chart based on Hampel function to monitor the process location parameter\" by Zaman et al. (2023)",
+      "A new adaptive CUSUM control chart based on Hampel function to monitor location parameter",
+      "Integration of hybrid score functions to design new adaptive EWMA control chart to monitor the process mean shift",
+      "A new approach for designing the Shewhart-type control charts with generalized sensitizing rules",
+      "An adaptive EWMA control chart based on Hampel function to monitor the process location parameter",
+      "Adaptive memory control charts constructed on generalized likelihood ratio test to monitor process location",
+      "Adaptive CUSUM location control charts based on score functions: An application in semiconductor wafer field",
+      "Adaptive CUSUM control charts for efficient monitoring of process dispersion",
+      "A homogeneously weighted moving average control chart for monitoring time between events",
+      "An enhanced double homogeneously weighted moving average control chart to monitor process location with application in automobile field",
+      "A robust hybrid exponentially weighted moving average chart for monitoring time between events",
+      "An adaptive EWMA control chart based on principal component method to monitor process mean vector",
+      "Mean control chart based on ranked set schemes for unknown skewed probability distribution and parameters",
+      "Hotelling T2 control chart based on bivariate ranked set schemes",
+      "Mixed memory control chart based on auxiliary information for simultaneously monitoring of process parameters: An application in glass field",
+      "Efficient adaptive CUSUM control charts based on generalized likelihood ratio test to monitor process dispersion shift",
+      "Advanced multivariate cumulative sum control charts based on principal component method with application",
+      "Homogeneously mixed memory charts with application in the substrate production process",
+      "An efficient robust nonparametric triple EWMA Wilcoxon signed-rank control chart for process location",
+      "An improved process monitoring by mixed multivariate memory control charts: An application in wind turbine field",
+      "On mixed memory control charts based on auxiliary information for efficient process monitoring",
+      "On the efficient monitoring of multivariate processes with unknown parameters",
+      "An adaptive EWMA chart with CUSUM accumulate error-based shift estimator for efficient process dispersion monitoring",
+      "An adaptive approach to EWMA dispersion chart using Huber and Tukey functions",
+      "An adaptive EWMA scheme-based CUSUM accumulation error for efficient monitoring of process location",
+      "On the performance of control charts for simultaneous monitoring of location and dispersion parameters",
+      "Mixed CUSUM-EWMA chart for monitoring process dispersion",
+      "On the efficiency of runs rules schemes for process monitoring",
+      "On artificial neural networking-based process monitoring under bootstrapping using runs rules schemes",
+      "Mixed cumulative sum-exponentially weighted moving average control charts: An efficient way of monitoring process location",
+      "On efficient phase II process monitoring charts"
+    ],
+    "manuscripts": 4,
+    "classification": "Topic relevance based on article titles and supplied CV; interdisciplinary articles may appear in multiple collections."
+  },
+  "machine-learning": {
+    "published_count": 9,
+    "publication_titles": [
+      "Semi-parametric Bayesian physics-informed neural network-based digital twin for dynamical systems",
+      "A multivariate adaptive cumulative sum control chart based on machine learning approach, support vector regression with applications",
+      "Data-driven control charts for monitoring Gamma-distributed manufacturing processes using machine learning",
+      "Enhancing statistical process control with machine learning: The Iso - CUSUM control chart for multivariate process",
+      "Memory control chart based on machine learning technique for efficient process monitoring",
+      "Enhanced process monitoring using machine learning-based control charts for poisson-distributed data",
+      "Adaptive CUSUM control chart utilizing supervised learning for monitoring the process location parameter: A case study application",
+      "Examining the prediction of vapor-liquid equilibria through comparative analysis: Deep learning versus classical cubic and associating fluid theory approaches",
+      "On artificial neural networking-based process monitoring under bootstrapping using runs rules schemes"
+    ],
+    "manuscripts": 4,
+    "classification": "Topic relevance based on article titles and supplied CV; interdisciplinary articles may appear in multiple collections."
+  },
+  "digital-twins": {
+    "published_count": 1,
+    "publication_titles": [
+      "Semi-parametric Bayesian physics-informed neural network-based digital twin for dynamical systems"
+    ],
+    "manuscripts": 3,
+    "classification": "Topic relevance based on article titles and supplied CV; interdisciplinary articles may appear in multiple collections."
+  },
+  "biostatistics": {
+    "published_count": 7,
+    "publication_titles": [
+      "The attitude of undergraduate medical students towards research: a case study from two medical colleges in Maharashtra, India",
+      "Attitudes of Saudi Arabian undergraduate medical students towards health research",
+      "Bottle characteristics of topical international glaucoma medications versus local brands in Saudi Arabia",
+      "Review of the Tumor Registry at a tertiary eye hospital in central Saudi Arabia",
+      "Ocular malignant tumors",
+      "Development of a web-based glaucoma registry at King Khaled Eye Specialist Hospital, Saudi Arabia: A cost-effective methodology",
+      "Retinoblastoma (Rb) in Saudi Arabia\u2014Fifteen year retrospective comparative review of a registry: 1983-1997 vs. 1998-2007 at King Khaled Eye Specialist Hospital"
+    ],
+    "manuscripts": 0,
+    "classification": "Topic relevance based on article titles and supplied CV; interdisciplinary articles may appear in multiple collections."
+  },
+  "financial-markets": {
+    "published_count": 0,
+    "publication_titles": [],
+    "manuscripts": 0,
+    "classification": "Topic relevance based on article titles and supplied CV; interdisciplinary articles may appear in multiple collections."
+  }
+}

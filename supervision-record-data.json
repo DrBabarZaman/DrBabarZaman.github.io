@@ -1,0 +1,345 @@
+[
+  {
+    "name": "Shahab Nadir",
+    "degree": "MS",
+    "research": "Hybrid and Robust Digital Twin Frameworks for Vibration-Based Structural Health Monitoring",
+    "research_kind": "title",
+    "year": "2026",
+    "cv_status": "",
+    "university": "GIK Institute",
+    "current_status": "",
+    "supervision_role": "",
+    "role_confirmed": false,
+    "status": "",
+    "status_confirmed": false,
+    "current_position": "",
+    "research_tags": [
+      "Digital twins",
+      "Vibration analysis",
+      "Structural health monitoring"
+    ],
+    "links": {
+      "linkedin": "",
+      "google_scholar": "",
+      "thesis": "",
+      "related_publication": "",
+      "github": ""
+    },
+    "research_summary": "",
+    "completion_year": "",
+    "completion_year_confirmed": false,
+    "current_organisation": "",
+    "related_publications": []
+  },
+  {
+    "name": "Aneela Shaheen",
+    "degree": "MS",
+    "research": "Machine Learning based Digital Twin for Prognostics of Dynamical Systems: Physics-Informed Modeling and S-plane Remaining Useful Life Estimation",
+    "research_kind": "title",
+    "year": "2026",
+    "cv_status": "",
+    "university": "GIK Institute",
+    "current_status": "",
+    "supervision_role": "",
+    "role_confirmed": false,
+    "status": "",
+    "status_confirmed": false,
+    "current_position": "",
+    "research_tags": [
+      "Digital twins",
+      "Physics-informed modelling",
+      "Prognostics"
+    ],
+    "links": {
+      "linkedin": "",
+      "google_scholar": "",
+      "thesis": "",
+      "related_publication": "",
+      "github": ""
+    },
+    "research_summary": "",
+    "completion_year": "",
+    "completion_year_confirmed": false,
+    "current_organisation": "",
+    "related_publications": []
+  },
+  {
+    "name": "Marva Ajab",
+    "degree": "MS",
+    "research": "Process Shift Detection using Möbius Transformation and Machine Learning Technique for Memory Control Charts",
+    "research_kind": "title",
+    "year": "2025",
+    "cv_status": "",
+    "university": "GIK Institute",
+    "current_status": "",
+    "supervision_role": "",
+    "role_confirmed": false,
+    "status": "",
+    "status_confirmed": false,
+    "current_position": "",
+    "research_tags": [
+      "Control charts",
+      "Machine learning",
+      "Möbius transformation"
+    ],
+    "links": {
+      "linkedin": "",
+      "google_scholar": "",
+      "thesis": "",
+      "related_publication": "",
+      "github": ""
+    },
+    "research_summary": "",
+    "completion_year": "",
+    "completion_year_confirmed": false,
+    "current_organisation": "",
+    "related_publications": []
+  },
+  {
+    "name": "Faraz Mukhtiar",
+    "degree": "MS",
+    "research": "Statistical Process Control Based on Machine Learning Techniques",
+    "research_kind": "title",
+    "year": "2025",
+    "cv_status": "",
+    "university": "Ghulam Ishaq Khan Institute of Engineering Sciences and Technology (GIKI), Pakistan",
+    "current_status": "",
+    "supervision_role": "",
+    "role_confirmed": false,
+    "status": "",
+    "status_confirmed": false,
+    "current_position": "Lecturer (Mathematics), Department of Computer Science",
+    "research_tags": [
+      "Statistical process control",
+      "Machine learning",
+      "Anomaly detection"
+    ],
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/faraz-mukhtiar-74041b1a4/",
+      "google_scholar": "https://scholar.google.com/citations?user=pv_VmBUAAAAJ",
+      "thesis": "",
+      "related_publication": "",
+      "github": "",
+      "orcid": "https://orcid.org/0009-0008-6602-5610"
+    },
+    "research_summary": "His research develops machine-learning-based control charts for monitoring and detecting anomalies in non-Gaussian and multivariate processes, including Poisson, Gamma, and binomial data. He integrates classical control-chart theory (Shewhart, EWMA, and CUSUM) with predictive models and evaluates detection performance through Monte Carlo simulation, covering run-length behaviour, false-alarm rates, and robustness under distributional shifts. He also contributed to a semi-parametric Bayesian physics-informed neural network framework for uncertainty-aware prediction in dynamical systems.",
+    "completion_year": "",
+    "completion_year_confirmed": false,
+    "current_organisation": "Al-Kawthar University, Karachi, Pakistan",
+    "related_publications": [
+      {
+        "title": "Gamma-distributed process monitoring",
+        "url": "https://doi.org/10.1007/s00170-026-18335-8"
+      },
+      {
+        "title": "Iso-CUSUM for multivariate processes",
+        "url": "https://doi.org/10.1016/j.cie.2025.111750"
+      },
+      {
+        "title": "Poisson-distributed process monitoring",
+        "url": "https://doi.org/10.1016/j.engappai.2025.111227"
+      },
+      {
+        "title": "Physics-informed digital twin",
+        "url": "https://doi.org/10.1016/j.eswa.2026.133907"
+      },
+      {
+        "title": "Comparative control-chart study (preprint)",
+        "url": "https://doi.org/10.2139/ssrn.5045114"
+      }
+    ],
+    "education_details": [
+      {
+        "degree": "BS in Mathematics",
+        "university": "Quaid-e-Awam University of Engineering Sciences and Technology, Nawabshah, Pakistan",
+        "period": "2018–2022"
+      },
+      {
+        "degree": "MS in Engineering Sciences (Applied Mathematics)",
+        "university": "Ghulam Ishaq Khan Institute of Engineering Sciences and Technology (GIKI), Pakistan",
+        "period": "2023–2025"
+      }
+    ]
+  },
+  {
+    "name": "Zahid Rasheed",
+    "degree": "PhD",
+    "research": "",
+    "research_kind": "",
+    "year": "2024",
+    "cv_status": "Completed in CV",
+    "university": "Xi’an Jiaotong University",
+    "current_status": "",
+    "supervision_role": "",
+    "role_confirmed": false,
+    "status": "",
+    "status_confirmed": false,
+    "current_position": "",
+    "research_tags": [],
+    "links": {
+      "linkedin": "",
+      "google_scholar": "",
+      "thesis": "",
+      "related_publication": "",
+      "github": ""
+    },
+    "research_summary": "",
+    "completion_year": "",
+    "completion_year_confirmed": false,
+    "current_organisation": "",
+    "related_publications": []
+  },
+  {
+    "name": "Majid Khan",
+    "degree": "PhD",
+    "research": "Statistical Process Control Charts",
+    "research_kind": "area",
+    "year": "2023",
+    "cv_status": "",
+    "university": "Riphah International University",
+    "current_status": "",
+    "supervision_role": "",
+    "role_confirmed": false,
+    "status": "",
+    "status_confirmed": false,
+    "current_position": "",
+    "research_tags": [
+      "Control charts"
+    ],
+    "links": {
+      "linkedin": "",
+      "google_scholar": "",
+      "thesis": "",
+      "related_publication": "",
+      "github": ""
+    },
+    "research_summary": "",
+    "completion_year": "",
+    "completion_year_confirmed": false,
+    "current_organisation": "",
+    "related_publications": []
+  },
+  {
+    "name": "Syed Masroor Anwar",
+    "degree": "PhD",
+    "research": "Design of Statistical Control Charts for Improved Process Monitoring",
+    "research_kind": "title",
+    "year": "2021",
+    "cv_status": "",
+    "university": "Riphah International University",
+    "current_status": "",
+    "supervision_role": "",
+    "role_confirmed": false,
+    "status": "",
+    "status_confirmed": false,
+    "current_position": "",
+    "research_tags": [
+      "Statistical process control",
+      "Process monitoring"
+    ],
+    "links": {
+      "linkedin": "",
+      "google_scholar": "",
+      "thesis": "",
+      "related_publication": "",
+      "github": ""
+    },
+    "research_summary": "",
+    "completion_year": "",
+    "completion_year_confirmed": false,
+    "current_organisation": "",
+    "related_publications": []
+  },
+  {
+    "name": "Eisha Mir",
+    "degree": "MS",
+    "research": "Machine Learning and Financial Markets",
+    "research_kind": "area",
+    "year": "",
+    "cv_status": "Ongoing in CV",
+    "university": "GIK Institute",
+    "current_status": "",
+    "supervision_role": "",
+    "role_confirmed": false,
+    "status": "",
+    "status_confirmed": false,
+    "current_position": "",
+    "research_tags": [
+      "Machine learning",
+      "Financial markets"
+    ],
+    "links": {
+      "linkedin": "",
+      "google_scholar": "",
+      "thesis": "",
+      "related_publication": "",
+      "github": ""
+    },
+    "research_summary": "",
+    "completion_year": "",
+    "completion_year_confirmed": false,
+    "current_organisation": "",
+    "related_publications": []
+  },
+  {
+    "name": "Komal Riaz",
+    "degree": "MS",
+    "research": "Machine Learning and Digital Twins",
+    "research_kind": "area",
+    "year": "",
+    "cv_status": "Ongoing in CV",
+    "university": "GIK Institute",
+    "current_status": "",
+    "supervision_role": "",
+    "role_confirmed": false,
+    "status": "",
+    "status_confirmed": false,
+    "current_position": "",
+    "research_tags": [
+      "Machine learning",
+      "Digital twins"
+    ],
+    "links": {
+      "linkedin": "",
+      "google_scholar": "",
+      "thesis": "",
+      "related_publication": "",
+      "github": ""
+    },
+    "research_summary": "",
+    "completion_year": "",
+    "completion_year_confirmed": false,
+    "current_organisation": "",
+    "related_publications": []
+  },
+  {
+    "name": "Fuozi Toreeq",
+    "degree": "PhD",
+    "research": "Statistical Process Control",
+    "research_kind": "area",
+    "year": "",
+    "cv_status": "Year / status to be confirmed",
+    "university": "Allama Iqbal Open University",
+    "current_status": "",
+    "supervision_role": "",
+    "role_confirmed": false,
+    "status": "",
+    "status_confirmed": false,
+    "current_position": "",
+    "research_tags": [
+      "Statistical process control"
+    ],
+    "links": {
+      "linkedin": "",
+      "google_scholar": "",
+      "thesis": "",
+      "related_publication": "",
+      "github": ""
+    },
+    "research_summary": "",
+    "completion_year": "",
+    "completion_year_confirmed": false,
+    "current_organisation": "",
+    "related_publications": []
+  }
+]

@@ -1,0 +1,72 @@
+{
+  "basic-mathematics-for-medical-sciences": {
+    "name": "Basic Mathematics for Medical Sciences",
+    "course": "",
+    "lectures": "",
+    "labs": "",
+    "data": ""
+  },
+  "probability-and-statistics-for-engineers-and-scientists": {
+    "name": "Probability and Statistics for Engineers and Scientists",
+    "course": "",
+    "lectures": "",
+    "labs": "",
+    "data": ""
+  },
+  "advanced-statistics": {
+    "name": "Advanced Statistics",
+    "course": "",
+    "lectures": "",
+    "labs": "",
+    "data": ""
+  },
+  "advanced-linear-algebra": {
+    "name": "Advanced Linear Algebra",
+    "course": "",
+    "lectures": "",
+    "labs": "",
+    "data": ""
+  },
+  "mathematics-for-machine-learning": {
+    "name": "Mathematics for Machine Learning",
+    "course": "",
+    "lectures": "",
+    "labs": "",
+    "data": ""
+  },
+  "inferential-statistics-and-applied-probability": {
+    "name": "Inferential Statistics and Applied Probability",
+    "course": "",
+    "lectures": "",
+    "labs": "",
+    "data": ""
+  },
+  "applied-statistics": {
+    "name": "Applied Statistics",
+    "course": "",
+    "lectures": "",
+    "labs": "",
+    "data": ""
+  },
+  "probabilistic-models": {
+    "name": "Probabilistic Models",
+    "course": "",
+    "lectures": "",
+    "labs": "",
+    "data": ""
+  },
+  "mathematics-for-engineering": {
+    "name": "Mathematics for Engineering",
+    "course": "",
+    "lectures": "",
+    "labs": "",
+    "data": ""
+  },
+  "engineering-optimization": {
+    "name": "Engineering Optimization (ES441)",
+    "course": "https://pern-my.sharepoint.com/:f:/g/personal/babar_zaman_giki_edu_pk/IgDr3gCFKmGuSqFisWbkbDU_AcmsnrkGYxd1NNrk5wyrMd8?e=m8KTGS",
+    "lectures": "https://pern-my.sharepoint.com/:f:/g/personal/babar_zaman_giki_edu_pk/IgDAhjQP9FmOQayreJHL9-75AXOs2EZ8xX08MU82WX-Dn0U?e=OsPlAy",
+    "labs": "https://pern-my.sharepoint.com/:f:/g/personal/babar_zaman_giki_edu_pk/IgDQNf_A6THgRZn2rc-bG_YtASwW7E2VmvSKupZGmlVqOMU?e=4Uh4TF",
+    "data": "https://pern-my.sharepoint.com/:f:/g/personal/babar_zaman_giki_edu_pk/IgAAje_5tAVVTqpe_jyldNlxAfTqU9V8FX___kS1Iw_74mw?e=yNg9S0"
+  }
+}
